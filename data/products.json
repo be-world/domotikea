@@ -1,138 +1,1418 @@
 {
   "48110": {
     "price": 1000,
-    "categories": ["smart_home"]
+    "categories": ["smart_home"],
+    "id": 48110,
+    "stock": 147,
+    "sku": "369",
+    "variations": [],
+    "name": "Camara Mini Bombilla Inteligente Wifi",
+    "description": "<p>Especificación:<br>Pixel: CMOS de 5,0 megapíxeles<br>Resolución: 4k 2K 1080P 720P<br>Formato de video: AVI<br>Marcos: 25 fps<br>Ángulo de visión: 360 grados<br>Distancia de disparo por detección de movimiento: 6 m de distancia en línea recta<br>Iluminación mínima: 1LUX<br>Formato comprimido: H.264<br>Rango de grabación de sonido: 5 m<br>Consumo de energía: 260 mA 3,7 V<br>Humedad de funcionamiento: 15 - 85% RH<br>Tipo de tarjeta de memoria: tarjeta TF de hasta 32 GB (no incluida en el paquete)<br>Sistema operativo de la computadora: Windows Mac OS<br>Sistema operativo del teléfono móvil: Android iOS<br>Color blanco<br>Rendimiento de la cámara IP: captura y grabación de video en tiempo real<br>Peso del producto: 400 g<br><br>Contenidos del paquete:<br>1 x cámara IP WiFi<br>1 x manual de usuario en inglés</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 41296,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/48110/Screenshot_198.jpg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/48110/17030809831703080983Screenshot_198.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 41295,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/48110/Screenshot_197.jpg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/48110/17030809831703080983Screenshot_197.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 41294,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/48110/Screenshot_196.jpg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/48110/17030809831703080983Screenshot_196.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 41293,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/48110/Screenshot_195.jpg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/48110/17030809831703080983Screenshot_195.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 129816,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/48110/SAiAwbpEANQRL183gKjj1OslOmJ6PRq5cYGHXrak.jpeg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/48110/17023923031702392303SAiAwbpEANQRL183gKjj1OslOmJ6PRq5cYGHXrak.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "1366156": {
     "price": 1000,
-    "categories": ["smart_home"]
+    "categories": ["smart_home"],
+    "id": 1366156,
+    "stock": 200,
+    "sku": "ES0475",
+    "variations": [],
+    "name": "CAMARA DE SEGURIDAD 3 ANTENAS",
+    "description": "<p><strong>📡 Cámara Wi-Fi de Vigilancia IP con Triple Antena</strong><br>🎥 <strong>Vigila y Comunícate</strong> fácilmente desde tu celular o tablet, sin necesidad de instalaciones complicadas.<br>💻 <strong>Control Total desde tu Dispositivo</strong> IOS o Android con un software móvil sencillo y seguro.</p><h3>🚀 <strong>CARACTERÍSTICAS DESTACADAS</strong></h3><p><strong>🖥️ Sistema:</strong></p><ul><li>Procesador: Hi3518E</li><li>Sistema Operativo: Yoosee o V380 (según disponibilidad)</li></ul><p><strong>🔭 Cámara:</strong></p><ul><li>Lente de 3.6mm</li><li>11 LEDs Infrarrojos para una visión nocturna clara hasta 10 metros 🌙</li><li>Sensor de imagen: 2.0 megapíxeles CMOS Hisilicon</li></ul><p><strong>🎥 Vídeo:</strong></p><ul><li>Compresión de vídeo: H.264</li><li>Sistema de señal: PAL/NTSC</li><li>Cambio automático entre modo día y noche 🌞🌛</li></ul><p><strong>📡 Rotación 360°:</strong> Controla la cámara en cualquier dirección con un simple toque.</p><p><strong>👁️‍🗨️ Detección de Movimiento y Grabación:</strong></p><ul><li>Soporte para grabación y visualización en vivo 📹</li><li>Función de fotografía y grabación</li><li>Compatible con tarjeta SD hasta 64GB (no incluida)</li></ul><p><strong>🌑 Visión Nocturna Automática:</strong> Las 10 luces LED infrarrojas se activan automáticamente en total oscuridad para una vigilancia efectiva en cualquier momento.</p><h3>📦 <strong>CONTENIDO DEL PAQUETE</strong></h3><p>1️⃣ <strong>Cámara IP con Triple Antena</strong><br>🔌 <strong>Adaptador de Corriente</strong> (5V)<br>📄 <strong>Manual de Usuario</strong> (en inglés)<br>🛠️ <strong>Soporte de Montaje</strong> para pared o techo, con tornillos incluidos.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1222812,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1366156/1729288384D_NQ_NP_678416-MLU79324085841_092024-O.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1222813,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1366156/1729288384D_NQ_NP_703024-MLU79324056767_092024-O.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1222814,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1366156/1729288384D_NQ_NP_2X_726514-MLU79082868682_092024-F.webp",
+        "variation_id": null
+      }
+    ]
   },
   "979916": {
     "price": 1000,
-    "categories": ["smart_home"]
+    "categories": ["smart_home"],
+    "id": 979916,
+    "stock": null,
+    "sku": "BT36",
+    "variations": [
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "COLRO",
+            "value": "BLACO",
+            "id": 602831
+          }
+        ],
+        "id": 1127825,
+        "stock": 99
+      },
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "COLRO",
+            "value": "NEGRO",
+            "id": 602830
+          }
+        ],
+        "id": 1127824,
+        "stock": 156
+      }
+    ],
+    "name": "Robot Aspiradora Barrido Recargable",
+    "description": "<p>BIENVENIDOS A DISTRIBUCIONES ROMAN,</p><p>somos importadores directos y distribuimos a nivel nacional,</p><p>con más de 8 años de experiencia en comercio en línea.</p><p>&nbsp;</p><p>¡LA MEJOR CALIDAD, AL MEJOR PRECIO!</p><p>ventas al por mayor y al detal.</p><p>-------------------------------------------------------------------------------------------------------------------</p><p>Con este Robot Aspiradora y demás funciones tendrás tu aliado perfecto para llevar a cabo las labores de aseo en el hogar, además es de bajo ruido y se puede cargar vía USB</p><p>&nbsp;</p><p>Robot Aspiradora Barrido Trapeador USB</p><p>&nbsp;</p><p>Características</p><p>&nbsp;</p><p>Color negro.</p><p>Carga via USB.</p><p>Bajo ruido de 40db.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1373289,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1736275553H827113ea08fb4b3a9ced4cc81e2d08b6p.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1373288,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1736275553Hb92996c735c6417ca0fd04634b926030D.webp",
+        "variation_id": null
+      },
+      {
+        "id": 966087,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 4_11zon.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 966088,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 1_11zon.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 966089,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 3_11zon.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 966090,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 2_11zon.jpg",
+        "variation_id": null
+      }
+    ]
   },
   "639229": {
     "price": 1000,
-    "categories": ["smart_home"]
+    "categories": ["smart_home"],
+    "id": 639229,
+    "stock": 97,
+    "sku": "CAMARA PTZ",
+    "variations": [],
+    "name": "Camara Exterior PTZ Dos Antenas",
+    "description": "<p>CONFIRMAR CON NUESTRA LINEA DE WHATSAPP EXISTENCIA PARA QUE COORDINES TUS CAMPAÑAS</p><p>&nbsp;</p><p>¡Bienvenidos a D-TECH! 🛍✨ La bodega virtual que te entrega tendencias, ofertas irresistibles para que incrementes tus ventas y tickets! vive una experiencia de compra excepcional. ¡Únete a nuestra comunidad de compradores felices!<br>&nbsp;</p><p>Impresionante cámara PTZ de seguridad para exteriores (resiste lluvia y sol) FULL HD 1080P, configuración rápida de wifi a través Smartphone usando la aplicación, tecnología Plug/Play para acceso remoto, control panorámico/basculante y zoom digital 4X inteligente, luces LED ir-cut incorporadas para visión nocturna de hasta 30 m, de pie para ver en cualquier espacio, iluminación de luces LED blanca que se activan cuando se detecta la presencia de un cuerpo humano u objeto (Configurable), cuenta con 2 antenas de 5db de señal, permite conexión con cable RJ-45, admite alarma de detección de movimiento, audio bidireccional directamente a tu smartphone, tableta o windows PC, ranura para tarjeta SD para grabación local (máx. 128GB) o NVR Onvif, reproducción en línea.</p><p>EMBALAJE</p><p>Caja de cartón -Papel burbuja &nbsp;- Vinipel negro - Cinta trasparente &nbsp;</p><p>POLITICAS DE GARANTIA &nbsp;</p><p>Nuestros&nbsp;equipos cuentan&nbsp;con&nbsp;garantía en&nbsp;caso&nbsp;de&nbsp;presentar&nbsp;defectos demostrables&nbsp;de fábrica.&nbsp;Las garantías o cambios se realizan sobre factura, numero de pedido o ID con máximo 3 meses.</p><p>El equipo defectuoso debe ser devuelto con la caja y accesorios en perfecto estado,&nbsp;escribir al numero para temas relacionados con el envío a la bodega para revisión tecnica posterior a la revision y confirmacion de daños se&nbsp;realizara el cambio.<br><br><br>⭐ Bodega DTECH les informa que nuestros horarios específicos para la generación de guías buscando brindarles un excelente servicio y asegurar que todas las solicitudes sean atendidas de manera eficiente, son los siguientes 🌐🚀:</p><p>Mañana: de 8:30 AM a 9:00 AM 👌🏻</p><p>Mediodía: de 12:00 PM a 1:00 PM 👩🏻‍💻</p><p>Tarde: de 4:00 PM a 5:00 PM 🤩</p><p>ESCRIBENOS AL NUMERO REPORTADO EN LA PLATAFORMA PARA UNA ATENCION PERSONALIZADA 😁🚀⭐</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 620492,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/639229/1707402732D_NQ_NP_963583-MCO71178143475_082023-O.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1106683,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/639229/1725569885WhatsApp Image 2024-08-31 at 4.16.35 PM.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "1590849": {
     "price": 1000,
-    "categories": ["smart_home"]
+    "categories": ["smart_home"],
+    "id": 1590849,
+    "stock": 50,
+    "sku": "USB",
+    "variations": [],
+    "name": "TOMA CORRIENTE INTELIGENTE DOBLE USB",
+    "description": "<p>2 puertos USB, 2 tomas de corriente, enchufe múltiple<br><br>-Control inteligente de aplicaciones, controla los electrodomésticos por medio de tu celular o control de voz. Solo necesita configurar el enchufe a su WiFi y celular para controlarlo los dispositivos en cualquier momento y en cualquier lugar: ni siquiera tiene que estar en su casa. También puedes configurar el horario para que los dispositivos con tu teléfono los encienda/apague automáticamente.<br><br>-Soporta un rango de 100-240V, 10 A ,compatible con la mayoría de los aparatos electrónicos<br><br>-Portátil compañero<br>El enchufe de pared con USB es inalámbrico y se puede utilizar una vez que se aplica a un enchufe. El diseño compacto y ligero hace que sea fácil de ajustar en equipaje o bolsos</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1354606,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_937841-MCO75019920390_032024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1354605,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_730897-MCO75019920396_032024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1354604,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_928313-MCO75020187774_032024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1354603,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_876309-MCO75020187750_032024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1354602,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_966210-MCO75020237576_032024-F.webp",
+        "variation_id": null
+      }
+    ]
   },
   "1055265": {
     "price": 1000,
-    "categories": ["smart_home"]
+    "categories": ["smart_home"],
+    "id": 1055265,
+    "stock": null,
+    "sku": "A007",
+    "variations": [
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "COLOR",
+            "value": "NEGRO",
+            "id": 434894
+          }
+        ],
+        "id": 796228,
+        "stock": 95
+      },
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "COLOR",
+            "value": "BLANCO",
+            "id": 434895
+          }
+        ],
+        "id": 796229,
+        "stock": 91
+      }
+    ],
+    "name": "Robot De Limpieza Inteligente Trapero🤖",
+    "description": "<h3>🤖 Limpiador de Robot Inteligente: Limpieza Automática y Eficiente para tu Hogar 🌟</h3><h4>Descripción:</h4><p>El <strong>Limpiador de Robot de Fregado Inteligente</strong> es la solución perfecta para mantener tus pisos impecables sin esfuerzo. Este dispositivo innovador combina la limpieza automática y el trapeado en seco y húmedo, ofreciendo una experiencia de limpieza completa y eficiente.</p><h4><strong>Características Destacadas:</strong></h4><p><strong>2 en 1: Limpieza y Trapeado Húmedo: 🧼</strong></p><ul><li>Este robot es capaz de recoger cabello, polvo, suciedad y manchas de agua, además de absorber el cabello suelto y limpiar huellas sucias, dejando tu hogar limpio y ordenado.</li></ul><p><strong>Limpieza Efectiva: 🚀</strong></p><ul><li>Equipado con un motor de alta velocidad que garantiza un excelente efecto de limpieza. El motor está diseñado para minimizar el consumo de energía y la vibración, reduciendo el ruido al mínimo.</li></ul><p><strong>Cuerpo Delgado: 🛏️</strong></p><ul><li>Con solo 6 cm de altura, el robot puede acceder fácilmente a áreas difíciles de alcanzar, como debajo de camas y muebles, para una limpieza profunda. Cambia automáticamente de dirección cuando encuentra obstáculos, evitando quedarse atascado.</li></ul><p><strong>Batería de Gran Capacidad: 🔋</strong></p><ul><li>Con una batería integrada de 1500 mAh, el robot puede funcionar durante aproximadamente 1.5 horas con una sola carga, cubriendo un área de limpieza de hasta 150 metros cuadrados.</li></ul><h4><strong>Aplicaciones y Usos:</strong></h4><p><strong>Versátil: 🌍</strong></p><ul><li>Adecuado para una variedad de superficies, incluyendo pisos de madera, mármol y azulejos, adaptándose a diferentes entornos de limpieza.</li></ul><p><strong>Silencioso y Eficiente: 🔕</strong></p><ul><li>Con un nivel de ruido de trabajo de solo 55 dB, el robot realiza su trabajo de manera silenciosa y eficiente.</li></ul><h4><strong>Especificaciones Técnicas:</strong></h4><ul><li><strong>Material:</strong> Plástico ABS y componentes electrónicos.</li><li><strong>Tiempo de Carga:</strong> 3 horas (carga USB).</li><li><strong>Duración de Uso:</strong> 90 minutos.</li><li><strong>Voltaje de Trabajo:</strong> 3.7 V.</li><li><strong>Tipo de Batería:</strong> Integrada de 1500 mAh.</li><li><strong>Área de Limpieza por Tiempo:</strong> 150 metros cuadrados.</li><li><strong>Características Adicionales:</strong> Uso en seco y húmedo, con luz para una mejor visibilidad.</li></ul><p>════════════════════════════════════════════════════════════════════════════════════════════</p><p><strong>Políticas de Garantías 🛡️</strong></p><p>En Iluxe Life, nos comprometemos a brindar productos de alta calidad y servicio al cliente excepcional. Creemos en la satisfacción del cliente y nos esforzamos por garantizar que cada compra sea una experiencia positiva. Para respaldar este compromiso, ofrecemos una política de garantías sólida y transparente. ✨🛍️</p><p><strong>Período de Garantía ⏳</strong></p><p>Todos los productos comprados a través de Iluxe Life están cubiertos por nuestra garantía estándar de 30 días a partir de la fecha de entrega. Esta garantía cubre cualquier defecto de fabricación o problemas de funcionamiento. Durante este período, los clientes tienen derecho a solicitar un reemplazo, reparación o reembolso completo del producto, según lo determinado por nuestro equipo de atención al cliente. 🔄🛠️</p><p><strong>Procedimiento de Reclamación de Garantía 📝</strong></p><p>Para hacer valer su garantía, los clientes deben seguir estos pasos:</p><p><strong>1. Contacto Inicial:</strong> Si experimenta algún problema con su producto, le recomendamos que se comunique con nosotros a través de WhatsApp al siguiente número: +573112407278. Nuestro equipo de atención al cliente estará disponible para ayudarlo. 📱👨‍💼</p><p><strong>2. Evaluación del Problema:</strong> Una vez que se ponga en contacto con nosotros, nuestro equipo le guiará a través de una evaluación inicial para determinar la naturaleza del problema. Es posible que se le solicite proporcionar fotos o videos del producto para ayudar en este proceso. 🧐📸</p><p><strong>3. Opciones de Resolución:</strong> Después de evaluar el problema, le ofreceremos las opciones de resolución disponibles, que pueden incluir reemplazo, reparación o reembolso. 💡🔧</p><p><strong>4. Envío del Producto (si es necesario):</strong> En caso de que se requiera devolver el producto para reemplazo o reparación, proporcionaremos instrucciones detalladas sobre cómo hacerlo. El cliente es responsable de los costos de envío de devolución, a menos que se determine lo contrario por parte de Iluxe Life. 📦🚚</p><p><strong>5. Resolución:</strong> Trabajaremos diligentemente para resolver su problema de manera oportuna y satisfactoria. Una vez completada la resolución, confirmaremos con el cliente y procederemos según lo acordado. ✅🤝</p><p><strong>Exclusiones de Garantía 🚫</strong></p><p>Nuestra garantía no cubre los siguientes casos:</p><ul><li>Daños causados por un uso indebido, negligencia o accidentes.</li><li>Modificaciones no autorizadas realizadas al producto.</li><li>Desgaste normal debido al uso regular del producto.</li><li>Mal uso por parte del cliente: La garantía no cubre los daños causados por un mal manejo, almacenamiento inadecuado o uso incorrecto del producto por parte del cliente. Esto incluye, pero no se limita a, usar el producto de manera diferente a su propósito previsto, utilizar accesorios no autorizados o no seguir las instrucciones de uso proporcionadas con el producto.</li><li>Productos sin defectos: Si un producto se devuelve y se determina que no tiene defectos de fabricación o problemas de funcionamiento, nos reservamos el derecho de rechazar la reclamación de garantía. En tales casos, el cliente puede ser responsable de los costos asociados con la evaluación del producto y el envío de devolución. ❌🔍</li></ul><p><strong>Reserva de Derechos 📝</strong></p><p>Nos reservamos el derecho de actualizar, modificar o cambiar esta política de garantías en cualquier momento sin previo aviso. Cualquier cambio entrará en vigencia inmediatamente después de su publicación en nuestro sitio web. 🔄📅</p><p>En Iluxe Life, nos enorgullece respaldar la calidad y durabilidad de nuestros productos. Estamos aquí para ayudarlo en cada paso del camino y garantizar que su experiencia de compra sea satisfactoria en todos los aspectos. 🌟🛒</p><p>Para consultas adicionales sobre nuestra política de garantías o para presentar una reclamación, no dude en ponerse en contacto con nuestro equipo de atención al cliente. 📞📧</p><p>¡Gracias por elegir Iluxe Life! 💼🎉</p><p>✨✨✨✨✨<strong>RECUERDA QUE EL TIEMPO PARA REPORTAR UNA GARANTÍA NO PUEDE EXCEDER LOS 12 DÍAS. </strong>✨✨✨✨✨</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1022766,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_686893-CBT76520059582_052024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1022767,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_635684-CBT76520059596_052024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1022768,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_648969-CBT76520059590_052024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1022769,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_661875-CBT76520059570_052024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1022770,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_910443-CBT76520059574_052024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1022771,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_808162-CBT76520059594_052024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1022772,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_778385-CBT76520059576_052024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1022773,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139238giphy (17).gif",
+        "variation_id": null
+      }
+    ]
   },
   "785281": {
     "price": 1000,
-    "categories": ["smart_home"]
+    "categories": ["smart_home"],
+    "id": 785281,
+    "stock": 492,
+    "sku": "bdg",
+    "variations": [],
+    "name": "Timbre inteligente con cámara portátil",
+    "description": "<p>Timbre con cámara y mircrofono</p><h2>Características del producto</h2><h3><strong>Características principales</strong></h3><figure class=\"table\"><table><tbody><tr><th><strong>Marca</strong></th><td>Genérica</td></tr><tr><th><strong>Modelo</strong></th><td>Generic</td></tr><tr><th><strong>Color</strong></th><td>Blanco</td></tr><tr><th><strong>Voltaje</strong></th><td>110V</td></tr></tbody></table></figure><h3><strong>Otros</strong></h3><figure class=\"table\"><table><tbody><tr><th><strong>Cantidad de melodías</strong></th><td>38</td></tr><tr><th><strong>Distancia de cobertura</strong></th><td>40 m</td></tr><tr><th><strong>Es inalámbrico</strong></th><td>Sí</td></tr><tr><th><strong>Es a prueba de agua</strong></th><td>No</td></tr><tr><th><strong>Incluye pila del transmisor</strong></th><td>Sí</td></tr><tr><th><strong>Incluye pilas del receptor</strong></th><td>Sí</td></tr><tr><th><strong>Niveles del volumen</strong></th><td>5</td></tr></tbody></table></figure><p>POLITICAS DE GARANTIA, CAMBIOS Y CAUSALES PARA DEVOLUCION.</p><p>&nbsp;</p><p>1. PEDIDO INCOMPLETO - Que solicites mas de una unidad y te llegue solo una.</p><p>&nbsp;</p><p>2. MALFUNCIONAMIENTO - Que no cumpla con tus expectativas con respecto a lo que se te ofrece o que el mismo tenga algún defecto mas no por mal uso.</p><p>&nbsp;</p><p>3. PRODUCTO ROTO – Que el producto te llegue roto ya sea por mal embalaje o mal trato de la transportadora &nbsp;</p><p>&nbsp;</p><p>4. PRODUCTO EQUIVOCADO – Que enviemos algo diferente a lo que nos solicitas.</p><p>&nbsp;</p><p>Tienes un plazo máximo para reportar el causal de garantía 1,3 y 4 de 10 días.</p><p>&nbsp;</p><p>Por favor a la hora de tener alguna garantía se debe enviar una buena evidencia como fotos y videos mostrando claramente cuál es el daño o inconformidad con el producto y a la hora de devolver el producto se debe enviar con todas sus piezas y un buen embalaje.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 761449,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 164810 bbb.png",
+        "variation_id": null
+      },
+      {
+        "id": 761450,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 164810.png",
+        "variation_id": null
+      },
+      {
+        "id": 761451,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 165659.png",
+        "variation_id": null
+      },
+      {
+        "id": 761452,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 165358.png",
+        "variation_id": null
+      }
+    ]
   },
   "1174056": {
     "price": 1000,
-    "categories": ["smart_home", "top_seller"]
+    "categories": ["smart_home", "top_seller"],
+    "id": 1174056,
+    "stock": 82,
+    "sku": "Alexa",
+    "variations": [],
+    "name": "Alexa EchoPop Amazon Altavoz inteligente",
+    "description": "<h3><strong>Información adicional</strong></h3><ul><li>Altavoces incorporados: Sí</li><li>Audio: Altavoces incorporados de alta definición sin pérdidas</li><li>Voz: Asistente de voz incorporado Amazon Alexa</li><li>Conectividad: WiFi y Bluetooth</li><li>Compatibilidad del sistema operativo: Linux</li><li>Fuente de alimentación: Enchufar</li><li>Dimensiones: 9.9 cm x 8.3 cm x 9.1 cm</li><li>Peso: 0.2 kg</li><li>Conectividad WiFi: Compatible con redes 802.11a/b/g/n/ac (2.4 y 5 GHz)</li><li>Amazon Sidewalk: Compatible para mejorar la conectividad</li><li>Compatibilidad con Dispositivos de Smart Home: WiFi. Bluetooth Low Energy Mesh y Matter</li><li>Conectividad Bluetooth: Compatible con perfil de distribución de audio avanzado (A2DP) y perfil de control remoto para audio y video (AVRCP)</li><li>eero integrado: Compatible con dispositivos eero para mejorar la cobertura de WiFi</li><li>Requisitos del sistema: Compatible con dispositivos Fire OS. Android y iOS; acceso a través de la app Alexa o navegador web</li><li>Tecnología de configuración: Configuración fácil Wi-Fi Simple Setup de Amazon</li><li>Funcionalidades de accesibilidad: Opciones personalizables para adaptar Alexa a las necesidades del usuario</li><li>Generación: 1.ª generación del Echo Pop (modelo de 2023)</li><li>Funcionalidades de privacidad: Tecnología de palabra de activación. indicadores de streaming. botón para activar/desactivar los micrófonos. opción de consultar y eliminar las grabaciones de voz. y más</li><li>Idioma: Compatible con español e inglés</li><li>Skills y funcionalidades de Alexa: Amplio rango de funciones y habilidades para controlar y mejorar la experiencia del usuario</li><li>Actualizaciones de seguridad del software: Garantizadas por al menos cuatro años después de la disponibilidad inicial del dispositivo.</li></ul>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1112761,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806037WhatsApp Image 2024-09-08 at 9.14.43 AM.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1112762,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806038WhatsApp Image 2024-09-08 at 9.14.43 AM (3).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1112763,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806038WhatsApp Image 2024-09-08 at 9.14.43 AM (1).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1112764,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806038WhatsApp Image 2024-09-08 at 9.14.43 AM (2).jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "172525": {
     "price": 1000,
-    "categories": ["kitchen"]
+    "categories": ["kitchen"],
+    "id": 172525,
+    "stock": 25,
+    "sku": "Escurridor Retráctil De Verduras",
+    "variations": [],
+    "name": "Escurridor Retráctil De Verduras",
+    "description": "<p>Con el escurridor ajustable podrá lavar su loza y vegetales fácilmente,&nbsp; &nbsp;&nbsp;<br>Gracias a su diseño y sistema ajustable dejará secando todo ordenadamente en su lavaplatos.</p><p>&nbsp;</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 209229,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/172525/rejilla3.jpeg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/172525/17023054611702305461rejilla3.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 209228,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/172525/rejilla2.jpeg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/172525/17023054621702305462rejilla2.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 209227,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/172525/rejilla.jpeg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/172525/17023054621702305462rejilla.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "1057956": {
     "price": 1000,
-    "categories": ["kitchen"]
+    "categories": ["kitchen"],
+    "id": 1057956,
+    "stock": 1999,
+    "sku": "132",
+    "variations": [],
+    "name": "CUTTER PRO 6 EN 1*",
+    "description": "<h4><strong>CUCHILLO TIJERA CLEVER CUTTER PRO 6 EN 1</strong><br>&nbsp;</h4><p>Revolucionario e innovador utensilio de cocina que permite cortar tus verduras favoritas, sorprende a tu familia y amigos con la calidad de todas tus recetas favoritas, ahorre espacio, dinero y tiempo, facilita tu trabajo en la cocina, son 6 utensilios en un solo producto.</p><p><strong>ESPECIFICACIONES:</strong></p><p>Las tijeras inteligentes llevan la vida a otro nivel. Debes poseerlo para experimentarlo. Es un utensilio fantástico para tener en cualquier cocina y con nuestro agitado estilo de vida, <strong>Smart Cutter</strong> ha vuelto a ofrecer una obra maestra para hacer su vida mucho más sencilla y cómoda.</p><p>Tijeras cortadoras inteligentes multifuncionales 6 en 1: Con tabla de cortar, corte más fácil, desmontable, le proporcionan un cuchillo de fruta, al mismo tiempo puede despegar y abrir la tapa de la botella de cerveza, la parte posterior de la hoja de acero inoxidable es ondulada. Puede ayudarte a eliminar las escamas de pescado. El cuchillo de corte está dentado para evitar que los alimentos se deslicen y se corten rápidamente.</p><ul><li>Material: acero inoxidable de calidad alimentaria, PP (polipropileno)</li><li>Pestillo de seguridad seguro, Desmontable</li><li>Peso: 205 g</li><li>Longitud total: 24,5 cm</li><li>Longitud del mango: 12,5 cm</li><li>Longitud de la hoja: 12 cm</li><li>Grosor de la hoja: 2,5 mm&nbsp;<br><br>𝑪𝑨𝑹𝑨𝑪𝑻𝑬𝑹𝑰́𝑺𝑻𝑰𝑪𝑨𝑺</li></ul><ol><li>Mini tabla de picar incorporada</li><li>Cuchillo tipo chef</li><li>Cuchillo para deshuesar</li><li>Quita escamas</li><li>Pelador de verduras</li><li>Abre botellas</li></ol><p>𝑮𝑨𝑹𝑨𝙉𝑻𝑰𝑨</p><p>El producto cuenta con 30 días de garantía por fallas o defectos de fábrica. La garantía empieza a correr desde el momento en el que el cliente final recibe el producto.</p><p>𝑵𝑶𝑻𝑨𝑺 𝑰𝑴𝑷𝑶𝑹𝑻𝑨𝑵𝑻𝑬𝑺</p><ul><li>Todos nuestros productos son revisados por nuestro equipo de CALIDAD antes de ser despachados, con esto evitamos inconformidades, malos comentarios, malas calificaciones, gastos innecesarios y molestias en general.</li><li>Debido a la diferencia de luz y configuración de la pantalla, el color del artículo puede ser ligeramente diferente al de las imágenes</li></ul>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1024406,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1057956/1723158145GIF CLEVER CUTER.gif",
+        "variation_id": null
+      }
+    ]
   },
   "599258": {
     "price": 1000,
-    "categories": ["kitchen"]
+    "categories": ["kitchen"],
+    "id": 599258,
+    "stock": 83,
+    "sku": "189009",
+    "variations": [],
+    "name": "LICUADORA PORTATIL",
+    "description": "<ul><li>Material seguro y de grado alimenticio de seis cuchillas: la taza exprimidora DoubleCare está hecha de material no tóxico de grado alimenticio y policarbonato y ABS, sin BPA, parte inferior de silicona, antideslizante y absorción de impactos. Puedes disfrutar de una retención de nutrientes frescos y un maravilloso tiempo de ocio y usarlo más seguro</li><li>Sistema de protección de seguridad inteligente: la licuadora portátil DoubleCare tiene características de seguridad integradas, interruptor de detección magnética ultra seguro de usar y limpiar, la taza exprimidora dejará de funcionar cuando el cuerpo y la parte inferior se separen, evita lesiones y utiliza de forma más segura</li><li>Carga de seguridad USB de 12.8&nbsp;fl oz: la taza exprimidora USB está equipada con baterías recargables de alta calidad de 2000 mAh que se pueden recargar de una variedad de maneras, como cargar por banco de energía, adaptador de CA y computadora, y el tiempo de carga es de 3 a 5 horas; completamente cargado puede producir de 10 a 15 tazas de jugo.</li><li>Portátil y de amplia aplicación: la taza batidora portátil es ideal para hacer batidos nutritivos de una sola porción, mezclas de jugo, mezclar frutas y verduras, café, leche en polvo, batido de proteínas, alimentos complementarios para bebés. También se puede utilizar como botella común. Fácil de llevar con gel de silicona, ideal para cualquier cocina, oficina o al aire libre.</li><li>Fácil limpieza y mezcla: nunca tendrás que limpiar la licuadora portátil de nuevo. Simplemente cepilla las esquinas con taza, añade agua y una gota opcional de jabón, y pon tu licuadora hasta que esté limpia. Mezcla tus batidos, batidos o comida para bebés favoritos con un solo botón.</li></ul>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 581705,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/599258/1705427615LICUADORA PORTATIL.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1078725,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/599258/1724772680Captura de Pantalla 2024-08-27 a la(s) 10.22.06 a. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1078726,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/599258/1724772680Captura de Pantalla 2024-08-27 a la(s) 10.21.59 a. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1078727,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/599258/1724772680Captura de Pantalla 2024-08-27 a la(s) 10.21.52 a. m..png",
+        "variation_id": null
+      }
+    ]
   },
   "458554": {
     "price": 1000,
-    "categories": ["kitchen", "top_seller"]
+    "categories": ["kitchen", "top_seller"],
+    "id": 458554,
+    "stock": null,
+    "sku": null,
+    "variations": [
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "Color",
+            "value": "Amarillo",
+            "id": 178859
+          }
+        ],
+        "id": 311171,
+        "stock": 159
+      },
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "Color",
+            "value": "Blanco",
+            "id": 178860
+          }
+        ],
+        "id": 311172,
+        "stock": 182
+      }
+    ],
+    "name": "Gallina Olla Hervidor De Huevos Eléctric",
+    "description": "<p>Prepara tu desayuno con deliciosos huevos, la máquina para huevos YS-205, con capacidad de hasta 7 huevos, su diseño en forma de gallina es ideal para decoración con tu cocina, además de sus piezas desmontables te será muy fácil la limpieza, tus desayunos nunca serán igual, hazlos en tan solo 10 minutos aproximadamente.<br><br>CARACTERISTICAS:<br><br>•Capacidad: 7 huevos<br>•Consumo de energía: 350W<br>•Control: pulsador<br>•Material: Placa calefactora de acero inoxidable + plástico PP<br>•Voltaje: 110V<br>•Cocción rápida: 10 minutos aproximadamente<br>•Indicador visual LED de encendido y apagado<br>•Vaso medidor para el agua con 3 niveles según preparación deseada<br>•Accesorios desmontables para mejor limpieza<br>•Para huevo blando 12 mililitros de agua, para huevo medio 15 mililitros de agua y para huevo duro 20 mililitros de agua.<br><br>CONTENIDO:<br><br>• 1 cubierta para hervir los huevos.<br>• 1 base plástica.<br>• 1 base en acero inoxidable.<br>• copa para medida de agua.<br>• manual de usuario.</p><p>GARANTIA: 30 días por defectos de fábrica, es decir, si el producto llegó roto o sin funcionamiento.</p><p>REQUISITOS OBLIGATORIOS:</p><ul><li>Caso de pedido ID:</li><li>Guía de envió inicial:</li><li>Novedad (Foto o Video donde se evidencie la novedad que indica):&nbsp;</li><li>Estado del producto:</li></ul><p>&nbsp;</p><p>* Debe estar en las condiciones que se recibió, con su empaque original, con las etiquetas, sellos de seguridad, y contar con todas sus partes y/o accesorios. Sin rayones ni manchas. Se recibirá únicamente en óptimas condiciones.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 475719,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina E.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 475720,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 8.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 475721,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 4.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 475722,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina A.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 475723,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 6.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 475724,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina B.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 475725,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 5.jpg",
+        "variation_id": null
+      }
+    ]
   },
   "1624938": {
     "price": 1000,
-    "categories": ["illumination"]
+    "categories": ["illumination"],
+    "id": 1624938,
+    "stock": 298,
+    "sku": "Ventilador Techo Lámpara Led Aromaterapia + Control Remoto",
+    "variations": [],
+    "name": "bombillo con ventilador",
+    "description": "<p>Características:</p><p>&nbsp;</p><p>- Portátil y versátil: este ventilador de techo con luces y control remoto ofrece movilidad sin esfuerzo, lo que te permite moverlo sin problemas entre habitaciones. Ya sea que necesites refrigeración en tu sala de estar, oficina, garaje, cocina o dormitorio, simplemente desenrosca el ventilador de la toma de luz e instálalo donde quieras. Disfruta de comodidad y flexibilidad dondequiera que vayas</p><p>&nbsp;</p><p>- 3 luces y temporizador del ventilador: la temperatura de color de la luz y el brillo son ajustables, 3 modos de color de luz: luz cálida, luz natural y luz blanca, brillo del 10% al 100%. Puedes configurar el modo de luz nocturna antes de acostarte. Disfruta del viento suave y brillante.</p><p>&nbsp;</p><p>&nbsp;</p><p>- Fácil de instalar y portátil: la luz del ventilador de techo se puede instalar en cualquier base E27 en casa, fácil de instalar y desmontar, fácil de transportar para que se pueda utilizar de forma flexible en varias escenas, es una excelente opción para ventilación, adecuada para garaje, guardarropa, almacenamiento, cocina, baño, lavandería, lugares con espacios pequeños.</p><p>&nbsp;</p><p>- Función de memoria: la luz del ventilador de techo tiene una función de memoria. Cuando se enciende de nuevo, es el ajuste de luz cuando se apagó la última vez, por lo que no hay necesidad de volver a ajustar la luz que más le convenga.</p><p>&nbsp;</p><p>&nbsp;</p><p>- Material de alta calidad: la luz del ventilador de techo cerrada adopta una pantalla acrílica, que tiene una fuerte transmisión de luz, no se oxida ni decolora fácilmente, es segura y respetuosa con el medio ambiente, aspas de ventilador de ABS pequeñas pero fuertes, y luces LED de bajo consumo</p><p>&nbsp;</p><p>- Funcionamiento silencioso: descansa tranquilo y disfruta de un ambiente tranquilo con nuestra luz de ventilador de techo. El motor meticulosamente diseñado ofrece un movimiento ultra potente pero silencioso, eliminando distracciones y asegurando un espacio de vida cómodo. Cada cuchilla se somete a pruebas de equilibrio y sonido de fábrica, garantizando una experiencia sin tambaleos</p><p>&nbsp;</p><p>&nbsp;</p><p>- Fuente de luz LED de ahorro de energía y protección ocular: actualice su solución de iluminación con nuestra tecnología LED de bajo consumo. Las luces LED regulables consumen menos energía, reduciendo los costos de electricidad mientras proporcionan una iluminación suave y no deslumbrante que es suave para los ojos. Di adiós a la fatiga ocular y disfruta de una experiencia visualmente cómoda.</p><p>&nbsp;</p><p>- Amplias aplicaciones: El ventilador de techo moderno es un complemento perfecto para cualquier espacio contemporáneo. Este ventilador de techo cuenta con luces LED integradas y un diseño de ventilador invisible, proporcionando una solución elegante y que ahorra espacio. Con su diseño de perfil bajo, es ideal para habitaciones con techos bajos como dormitorios, salas de estar, comedores y cocinas.</p><p>&nbsp;</p><p>- Además, con la función de temporizador, puedes programar el ventilador para que se apague automáticamente después de 1, 2 o 4 horas, lo que te brinda comodidad y ahorro de energía. Y para aquellos momentos en los que necesitas una luz tenue durante la noche, el foco incluye una opción de luz nocturna, proporcionando una suave iluminación sin perturbar tu descanso.</p><p>&nbsp;</p><p>&nbsp;</p><p>Especificación:</p><p>&nbsp;</p><p>Color: blanco.</p><p>Material: ABS</p><p>Tamaño: aproximadamente 25 cm x 11c m</p><p>Voltaje: 86-265V</p><p>Potencia del ventilador: 4W</p><p>Potencia de iluminación: 30W</p><p>Peso: aproximadamente 600g</p><p>Material: ABS y PC</p><p>Control remoto</p><p>Frecuencia: 50HZ 60HZ</p><p>Especificación de la tapa de la lámpara: E27</p><p>Fuente de luz: Luz blanca, luz cálida, luz (opción de control remoto)</p><p>Engranaje del ventilador: velocidad del viento de 3 marchas (selección de control remoto)</p><p>&nbsp;</p><p>Incluye:</p><p>&nbsp;</p><p>- 1 ventilador de techo</p><p>- 1 control remoto</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1385076,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.42 PM.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1385075,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.42 PM (1).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1385074,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.43 PM (2).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1385073,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.43 PM.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1385072,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.43 PM (1).jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "656971": {
     "price": 1000,
-    "categories": ["illumination"]
+    "categories": ["illumination"],
+    "id": 656971,
+    "stock": 398,
+    "sku": "0",
+    "variations": [],
+    "name": "LAMPARA HEXAGONAL",
+    "description": "<h2>********NOTA IMPORTANTE********</h2><h3>COMUNÍCATE CON NUESTRA BODEGA PARA BRINDARTE CREATIVOS DE ESTE PRODUCTO, TAMBIÉN PARA TENER UNA COMUNICACIÓN MÁS FLUIDA Y PODER ASESORARTE</h3><p>&nbsp;</p><h3>COPIA ESTE LINK Y PEGALO EN EL URL DE TU PC PARA PODER ESCRIBIRNOS A WHATSAPP DIRECTO👇</h3><p>&nbsp;</p><p>https://bit.ly/TmComercial</p><p>&nbsp;</p><h3>❗<strong>INFORMACION UTIL</strong>❗</h3><p><strong>Numero WhatsApp: 3148734745</strong></p><p><strong>Generación de guía: </strong>Se genera guia 4 veces al dia, 8AM, 11AM, 1PM y 4PM</p><p><strong>Fecha de corte(Impresión de guías): </strong>Todo lo que sea impreso antes de las 12PM sale el mismo dia como maximo en 24 horas, Todo lo que sea impreso a las 3PM puede salir el mismo dia pero mas seguro el próximo día hábil</p><p><strong>Garantía:</strong> 24 horas por daño de fabrica 30 dias por mal funcionamiento&nbsp;</p><p><strong>Como solicitar una garantía: </strong>En el modulo de dropi las montas, subir evidencia siempre y el caso especificado&nbsp;</p><p><strong>Catálogo: </strong>Solicitud el catálogo de producto a nuestro numero de whatsApp</p><p><strong>*********************************************************************************</strong></p><p>&nbsp;El producto consiste en una serie de hexágonos de plástico, que se pueden conectar con imanes y patrones entrelazados para formar una lámpara de pared de pantalla táctil. Los imanes que forman las conexiones físicas entre los componentes también permiten que la corriente fluya de un componente a otro.</p><p>Con la fuente de alimentación del producto, cada componente se enciende y apaga a través de un sensor táctil capacitivo. La idea básica de este producto es permitir a los usuarios convertir la estructura interna del espacio en fuente de luz. Permite al usuario iluminar el camino de su contacto simplemente deslizando la superficie de la pared. Convierte el edificio interior en lienzo y deja que los usuarios usen sus manos como pinceles</p><p>Cada componente se puede conectar fácilmente a un imán ubicado en el borde del producto. Las formas hexagonales permiten que estos componentes se integren juntos y brindan oportunidades para diferentes estructuras. Este proceso permite a los usuarios crear luces que satisfagan sus necesidades. Los usuarios pueden comprar tantas unidades de luces como sea posible.</p><p>&nbsp;La combinación de modularización y control de iluminación es equivalente a un producto que los usuarios pueden personalizar completamente. El producto ofrece oportunidades para cada solución de iluminación específica del entorno.</p><p>&nbsp;</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 639764,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/656971/17081001321700779864L-mpara-hexagonal-Quantum-LED-RGB-con-Sensor-t-ctil-luz-nocturna-l-mpara-de-pared.jpg_640x640.jpg_.webp",
+        "variation_id": null
+      },
+      {
+        "id": 639765,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/656971/17081001321700779864S82c3f774d7bd4905aaf0a0d6a46fa189e.jpg",
+        "variation_id": null
+      }
+    ]
   },
   "1573709": {
     "price": 1000,
-    "categories": ["illumination"]
+    "categories": ["illumination"],
+    "id": 1573709,
+    "stock": 206,
+    "sku": "LMAP P80",
+    "variations": [],
+    "name": "Lampara Led con sensor recargable",
+    "description": "<p><strong>Lámpara Inteligente con Sensor de Movimiento</strong></p><p>Descubre la <strong>Lámpara Inteligente</strong> que se adapta a tus necesidades de iluminación en cualquier espacio oscuro. Ideal para usar en <strong>mesitas de noche</strong>, <strong>cajones</strong>, <strong>armarios</strong>, y más. Sin necesidad de recargarla cada vez que la utilices, esta lámpara es perfecta como un regalo de Navidad original y práctico.</p><p><strong>Características Destacadas</strong></p><p><strong>Modo Dual</strong>: Gracias a su <strong>sensor fotosensible</strong> y <strong>perspectiva infrarroja</strong>, la lámpara se enciende automáticamente al detectar movimiento a 13 pies en la oscuridad y se apaga después de 15 segundos sin movimiento. También puedes optar por el <strong>modo de luz constante</strong> con solo presionar un botón.</p><p><strong>Diseño Nostálgico y Simple</strong>: Fabricada en <strong>madera natural</strong> y <strong>acrílico mate</strong>, esta lámpara no solo ilumina, sino que también decora tu hogar con un estilo único y acogedor.</p><p><strong>Carga USB</strong>: Con su batería recargable de <strong>500 mAh</strong>, disfruta de hasta <strong>8 horas</strong> de luz constante y <strong>3-5 meses</strong> en modo sensor, eliminando la necesidad de reemplazar baterías.</p><p><strong>Instalación Flexible</strong>: Sin cables ni perforaciones. Usa una almohadilla de goma 3M para fijarla en cualquier superficie o aprovecha su <strong>imán integrado</strong> para colocarla en refrigeradores o barandillas.<br><br><strong>Rango de detección:</strong> 5-7M delante, 2-3M horizontalmente, dentro de 120 ° horizontalmente.<br><br><strong>Lista de embalaje:</strong><br>1 x luz nocturna<br>1 x base<br>1 x cable de carga USB<br><br><strong>GARANTÍA:</strong></p><p><strong>Orden distinta 10 días</strong></p><p><strong>Orden incompleta 10 días</strong></p><p><strong>Mal funcionamiento 30 días</strong></p><p><strong>Producto roto 10 días</strong></p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1338519,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.29 PM.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1338518,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.28 PM (1).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1338517,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.29 PM (2).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1338516,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.28 PM.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1338515,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.29 PM (1).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1338514,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242Captura de pantalla 2024-12-06 125029.png",
+        "variation_id": null
+      },
+      {
+        "id": 1338513,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242Captura de pantalla 2024-12-06 124959.png",
+        "variation_id": null
+      },
+      {
+        "id": 1338512,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508241Captura de pantalla 2024-12-06 130204.png",
+        "variation_id": null
+      }
+    ]
   },
   "970488": {
     "price": 1000,
-    "categories": ["illumination"]
+    "categories": ["illumination"],
+    "id": 970488,
+    "stock": null,
+    "sku": "0545",
+    "variations": [
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "MODELOS",
+            "value": "MODELO 16 COLORES",
+            "id": 501981
+          }
+        ],
+        "id": 920774,
+        "stock": 369
+      },
+      {
+        "attribute_values": [
+          {
+            "attribute_name": "MODELOS",
+            "value": "MODELO 3 COLORES",
+            "id": 501980
+          }
+        ],
+        "id": 920773,
+        "stock": 118
+      }
+    ],
+    "name": "Lampara Celestial Luces Aurora Boreal",
+    "description": "<p>Lámpara Aurora Boreal, Lámpara de Agua Celestial, Lámpara Tesseract, Lámpara de Olas Oceánicas de Llama Giratoria Gradual de 16 Colores<br><br>16 COLORES DE ILUMINACIÓN---Desde tonos serenos como el azul suave hasta tonalidades vibrantes como el rojo ardiente, puedes crear un espacio adaptado a tu propio estilo. Tanto si busca una atmósfera relajante como si desea crear un deslumbrante espectáculo de luces, esta función satisfará todas sus necesidades.<br>ATMÓSFERA RELAJANTE---Efectos de luz fascinantes, el proyector de techo para dormitorio produce cautivadores efectos de ondulación, transformando sus paredes y techo en un ambiente sereno, como el océano, promoviendo la relajación y la tranquilidad.<br>LÁMPARA NORTHERN LIGHTS--- Northern Lights es más que una lámpara; es una experiencia encantadora que espera hipnotizar a sus seres queridos. Recreando el encanto de la Aurora Boreal, regala un ambiente mágico para cualquier ocasión.<br>ILUMINACIÓN AJUSTABLE A LA MEDIDA---Los ajustes personalizables le permiten ajustar los colores, la intensidad y el movimiento de las luces. Su diseño compacto y portátil lo hace perfecto para decorar cualquier espacio o crear un ambiente relajante.<br>AMPLIAS APLICACIONES---Utiliza nuestra lámpara de ambiente como luz nocturna en tu dormitorio para crear un ambiente relajante y calmante que te ayude a conciliar el sueño. O colóquela en su escritorio de oficina para proporcionar una iluminación cómoda y suave mientras trabaja.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 960082,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807088lampara cuadrada colores12.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 960083,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807088lampara cuadrada colores12322.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 960084,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807088lampara cuadrada colores.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 960085,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807089lampara cuadrada colores123.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 960086,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807089lampara cuadrada colores1232.jpg",
+        "variation_id": null
+      }
+    ]
   },
   "751123": {
     "price": 1000,
-    "categories": ["illumination", "top_seller"]
+    "categories": ["illumination", "top_seller"],
+    "id": 751123,
+    "stock": 281,
+    "sku": "BOB-001",
+    "variations": [],
+    "name": "BOMBILLO INTELIGENTE BLUETOOTH",
+    "description": "<p>&nbsp;</p><p>Bombillas inteligentes WiFi A19 controladas a través de la aplicación TuyaSmart. Controla el encendido y apagado de tus luces, cambia los colores y los niveles de brillo, así como programar tus luces para encenderlas o apagarlas.</p><p>FUNCIONAMIENTO:</p><p>Conecta fácilmente tus luces inteligentes directamente al WiFi de tu hogar. No requiere concentrador: simplemente funciona con Google Assistant y Alexa Echo para control de voz sin contacto</p><p>Cambian de color tienen una gama de 16 millones de colores, lo que te permite elegir el ambiente adecuado para tu estado de ánimo.</p><p>CARACTERÍSTICAS:</p><p>800 lúmenes, equivalente a 60 vatios, rango CCT de 2000 K a 5000 K, regulable a través de la aplicación (no compatible con interruptores de regulación)</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 732014,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/751123/1712284892descarga (22).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 732015,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/751123/1712284892descarga (23).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 732016,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/751123/1712284892descarga (26).jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "752292": {
     "price": 1000,
-    "categories": ["wellness"]
+    "categories": ["wellness"],
+    "id": 752292,
+    "stock": 115,
+    "sku": "MA24068",
+    "variations": [],
+    "name": "Humidificador Difusor De Aroma",
+    "description": "<p><strong>Descripción:</strong></p><p>Todo lo que necesitas hacer es añadir agua y encenderlo</p><p>Diseñado para complementar cualquier espacio. Añade tus aceites esenciales favoritos al agua y llévate a un mundo aromático</p><p>Descripción del producto:</p><p>batería recargable de 500 ml</p><p>Tamaño del producto: 17 x 17 x 24 cm/6,7 x 9,5 pulgadas</p><p>Peso del producto: 620 g</p><p>Color del producto: fibra de madera clara</p><p>PC+ABS Material</p><p>Iluminación: luz colorida</p><p>Potencia: 24 V y 15,6 W &nbsp;</p><p>Tiempo de trabajo: aproximadamente 8-12 horas.</p><p><strong>GARANTIA:</strong></p><p><strong>¿Tu producto tiene alguna novedad que debamos reportar?</strong></p><p>En bien recibas tu producto, cuentas con máximo&nbsp;<strong>10</strong>&nbsp;días para reportar a Soporte: piezas faltantes, rotas o cualquier novedad que presente el producto</p><p><strong>¿Tu producto está presentando fallas?</strong></p><p>Cuentas con&nbsp;<strong>30</strong>&nbsp;días de garantía por funcionamiento y/o daños del producto que no estén relacionados a su mal uso.</p><p>Para hacer efectiva la devolución, el producto debe entregarse debidamente protegido cuidando el estado del empaque original, incluir todos los documentos y/o manuales (si aplica) y las partes ello completas.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 733177,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/752292/17123396121712336079_3.fw.png",
+        "variation_id": null
+      },
+      {
+        "id": 733178,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/752292/17123396121712336079_5.fw.png",
+        "variation_id": null
+      },
+      {
+        "id": 733179,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/752292/17123396131712336079_2.fw.png",
+        "variation_id": null
+      }
+    ]
   },
   "1048159": {
     "price": 1000,
-    "categories": ["wellness"]
+    "categories": ["wellness"],
+    "id": 1048159,
+    "stock": 132,
+    "sku": "150",
+    "variations": [],
+    "name": "Ventilador Enfriador Humidificador Difus",
+    "description": "<p>Disfruta rápido de la frescura: 5 atomizadores grandes; 3 niveles de velocidad; ventilador grande mejorado de bajo ruido para reducir rápidamente la temperatura ambiente y disfrutar de la sensación fresca y cómoda</p><p>Refrigerador de aire personal multifuncional y humidificador: no es solo un aire acondicionado portátil personal para refrigeración de verano. También se puede utilizar como humidificador, máquina de aromaterapia.</p><p>Diseño humanizado: la dirección del viento se puede ajustar 60° hacia arriba y hacia abajo; temporizador 1/2/3 horas;, cuando el tanque de agua está lleno de agua, el atomizador puede funcionar durante 2.5 horas y disfrutar de tu tiempo libre, sueño o trabajo.</p><p>&nbsp;</p><p>Potencia de 10 W.</p><p>Medidas: 25cm * 20cm * 8.5cm * 25cm</p><p>Medida Tanque de Agua: 6.5cm</p><p>COLOR DISPONIBLE SOLO BLANCO</p><p><strong>POLÍTICA DE GARANTÍA:</strong></p><p>Orden incompleta / Producto diferente / Producto averiado: En caso tal de recibir la orden incompleta o recibir un producto diferente al solicitado por la tienda, o roto se reenviará uno nuevamente sin ningún costo de flete. Cuenta con 10 días para solicitarlo. La garantía será valida para los siguientes casos:</p><ol><li>Orden incompleta</li><li>Mal funcionamiento</li><li>Producto roto</li><li>Orden diferente</li></ol><p>Mal funcionamiento: Todos nuestros productos cuentan con garantía, en caso de presentar una falla el producto será cambiado siempre y cuando no se compruebe que haya sido por un mal uso por parte del cliente. Para este caso el periodo es de 30 días</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1378488,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722967746WhatsApp Image 2024-08-05 at 6.11.36 PM (1).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1378487,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722967746WhatsApp Image 2024-08-05 at 6.11.37 PM (2).jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1378486,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722968236313_1722968229258_1722968228525.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1378485,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722967746WhatsApp Image 2024-08-05 at 6.11.37 PM (1).jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "669068": {
     "price": 1000,
-    "categories": ["wellness"]
+    "categories": ["wellness"],
+    "id": 669068,
+    "stock": 756,
+    "sku": "34224421",
+    "variations": [],
+    "name": "Tapete Masajeador Electroestimulador",
+    "description": "<p>lista de empaque:<br>1 * anfitrión<br>1 * alfombrilla de masaje.<br>1 * cable USB<br><br>1.MASAJADOR DE PIES EMS: Una almohadilla para los pies suave y cómoda, liviana, plegable, fácil de llevar a cualquier lugar, se puede secar con una toalla húmeda después de su uso. Utiliza la tecnología EMS para el masaje de los músculos del pie, el tobillo, el tendón de Aquiles y la pantorrilla, para promover la circulación sanguínea y relajar los pies. (NOTA: no debe usar si tiene un marcapasos o presión arterial alta; quítese los calcetines antes de usarlos y coloque los 2 pies en la almohadil<br><br>2.6 MODOS DE MASAJE: Modo M1-masaje, modo M2-amasado, modo M3-raspado, modo M4-presión del codo, modo M5-Acupuntura, M6-Ventosas, múltiples modos para Simular el efecto del masaje real, experimenta la alegría de masaje de pies.<br><br>3.CAPTURA INTELIGENTE DE PUNTOS DE ACUPUNTURA: El masaje EMS inteligente estimula directamente los puntos de acupuntura, lo que puede aliviar el dolor y reducir la fatiga, apta para todo tipo de pies y pies de diferentes tamaños.<br><br>4.PERSONAS QUE SE PUEDEN APLICAR: El masajeador eléctrico de circulación de pies EMS está especialmente diseñado para entusiastas de los deportes, ancianos y trabajadores de oficina sedentarios/de pie. Proporciona una gran relajación y alivia las piernas doloridas<br>NOTA: El masajeador de pies suave y cómodo se puede secar con una toalla húmeda después de su uso.<br>Preguntas y respuestas</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 652786,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669068/1708635499Diseño sin título - 2024-02-22T155607.459.png",
+        "variation_id": null
+      },
+      {
+        "id": 652787,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669068/1708635500Diseño sin título - 2024-02-22T155637.866.png",
+        "variation_id": null
+      },
+      {
+        "id": 652788,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669068/1708635500Diseño sin título - 2024-02-22T155547.331.png",
+        "variation_id": null
+      }
+    ]
   },
   "85099": {
     "price": 1000,
-    "categories": ["wellness"]
+    "categories": ["wellness"],
+    "id": 85099,
+    "stock": 995,
+    "sku": "MS0202",
+    "variations": [],
+    "name": "Parlante Alta Voz Recargable Ducha Blue",
+    "description": "Este parlante resiste el agua de manera directa, indirecta y el vapor, mientras que el alcance de su bluetooth es de 10 metros, para que tus dispositivos musicales estén a salvo del dañino ambiente húmedo del baño. Cuenta con una entrada plug para cargar la batería de litio, que alcanza hasta 1 horas de reproducción de música o de conversación por teléfono, para recibir esas llamadas que no pueden esperar.\n\n-Los botones de control integrados permiten ajustar el volumen, e incluso detener el audio para contestar una llamada entrante. Con los que puedes disfrutar de la verdadera libertad de hablar y de escuchar tu música preferida en cualquier lugar sin las limitaciones de las conexiones con cables! Comodidad sin cables Los parlantes con tecnología inalámbrica Bluetooth simplifican las conversaciones con manos libres utilizando tu celular.\n\nCARACTERISTICAS\n\nEscuche música de manera inalámbrica por comunicación bluetooth.\nBatería recargable.\nSirve para escuchar música y recibir llamadas.\nBluetooth 10 metros de alcance.\nResistente al agua.\nDimensiones: 8x8x3cm",
+    "active": true,
+    "gallery": [
+      {
+        "id": 102657,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/H9vnJHYaqAYctVqqdj88oqKAgUPMCsd88CrqHB8d.png",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645H9vnJHYaqAYctVqqdj88oqKAgUPMCsd88CrqHB8d.png",
+        "variation_id": null
+      },
+      {
+        "id": 102656,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/DGp7nAubmEfWJFTN0BOf55ng8magI3tDEDQBaoEq.png",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645DGp7nAubmEfWJFTN0BOf55ng8magI3tDEDQBaoEq.png",
+        "variation_id": null
+      },
+      {
+        "id": 102655,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/knPNEMVS6ZscmC4DRyYe3I9f0SX0pq4wuKDTi5CI.png",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645knPNEMVS6ZscmC4DRyYe3I9f0SX0pq4wuKDTi5CI.png",
+        "variation_id": null
+      },
+      {
+        "id": 102654,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/oH541ikj4NQJz3m50nft9SWoREkXWSIE5IgvJqaT.png",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645oH541ikj4NQJz3m50nft9SWoREkXWSIE5IgvJqaT.png",
+        "variation_id": null
+      },
+      {
+        "id": 102653,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/K1YgI6IwThG0kKZ1P7lG3oaNcwZ0WF1O7g8GLEV3.png",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645K1YgI6IwThG0kKZ1P7lG3oaNcwZ0WF1O7g8GLEV3.png",
+        "variation_id": null
+      }
+    ]
   },
   "353320": {
     "price": 1000,
-    "categories": ["wellness", "top_seller"]
+    "categories": ["wellness", "top_seller"],
+    "id": 353320,
+    "stock": 100,
+    "sku": "Calentador-10",
+    "variations": [],
+    "name": "Calentador De Aire Chimenea",
+    "description": "<p>Descripción<br>Calentador de llama de 1000 W Mini calentador de aire enchufable para chimenea eléctrica portátil con control remoto<br>-Pantalla de visualización digital, parte superior del calentador.<br>-Pantalla de patrón de llama, frente del calentador.<br>-El enchufe se puede girar 180 grados.<br>-En el frío invierno, dale calor al interior.<br>-¡La calefacción personal es tu mejor compañera para mantenerte caliente en este invierno!<br>-Protección del medio ambiente, ahorro de energía, seguridad.<br>-Elemento calefactor cerámico PTC que tiene las ventajas de un calentamiento rápido, alta tasa de conversión.<br>-Adecuado para dormitorio, baño, garaje, oficina</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 371921,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/353320/51.PNG",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/353320/1701876330170187633051.PNG",
+        "variation_id": null
+      },
+      {
+        "id": 371920,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/353320/50.PNG",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/353320/1701876331170187633150.PNG",
+        "variation_id": null
+      },
+      {
+        "id": 371922,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/353320/52.PNG",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/353320/1701876330170187633052.PNG",
+        "variation_id": null
+      }
+    ]
   },
   "72854": {
     "price": 1000,
-    "categories": ["cleaning"]
+    "categories": ["cleaning"],
+    "id": 72854,
+    "stock": 10,
+    "sku": "LIMPIADOR DE VIDRIO",
+    "variations": [],
+    "name": "Limpiador Magnetico Ventanas y Vidrios",
+    "description": "<p>Limpiador magnético de doble cara de vidrio Limpiador limpiador de ventanas de doble cara Limpiador de ventanas Cepillo limpiador<br><br>El limpiador de ventanas mágico limpia fácilmente ventanas que son altas y peligrosas para alcanzar<br>Deslizalo a lo largo y deja una ventana seca, libre de rayas y reluciente.<br>Viene con cordón de seguridad para evitar caídas accidentales.<br>Solo requiere agua tibia y detergente para una limpieza fácil y sin esfuerzo.<br><br>Una forma inteligente de limpiar ventanas y ahorrar tiempo y mantenerte seguro. Sus potentes imanes internos le permiten limpiar ambos lados de su ventana al mismo tiempo. Descripción: El limpiador de ventanas mágico limpia fácilmente ventanas que son altas y peligrosas para alcanzar Glides a lo largo de su vidrio y dejando una ventana seca, sin rayas y brillante. Viene con cordón de seguridad para evitar caídas accidentales. Solo requiere agua tibia y detergente para una limpieza fácil y sin esfuerzo. peligroso asomando por las ventanas tratando de alcanzar áreas sucias Diseño de doble cara y usos múltiples para ventanas, invernadero, pecera y espejo, etc. Ámbito de aplicación: Espesor de vidrio no mayor a 6 mm 2 piezas almohadillas de repuesto incluidas en el paquete Tamaño total (ancho x alto) : Aprox. 4,5 x 4 pulgadas / 11,4 x 10 cm Área de limpieza (L x H): Aprox. 3.6 x 1.3 pulgadas / 9 x 3.3 cm Longitud del cable: aprox. 50.5 pulgadas</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 79829,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/72854/D_NQ_NP_2X_968204-MCO41511183119_042020-F.jpeg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/72854/17030245281703024528D_NQ_NP_2X_968204-MCO41511183119_042020-F.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 79828,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/72854/D_NQ_NP_2X_767738-MCO41511169392_042020-F.jpeg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/72854/17030245281703024528D_NQ_NP_2X_767738-MCO41511169392_042020-F.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "1236155": {
     "price": 1000,
-    "categories": ["cleaning"]
+    "categories": ["cleaning"],
+    "id": 1236155,
+    "stock": 819,
+    "sku": "FILTRODUCHA",
+    "variations": [],
+    "name": "FILTRO DE DUCHA 15 NIVELES +REPUESTO GRA",
+    "description": "<p><strong>Datos importantes:&nbsp;</strong></p><ul><li>Cada repuesto dura 6 meses o hasta 10,000 galones de agua.</li><li>Cada producto incluye 1 filtro + 1 filtro de repuesto (2 filtros en total). El filtro adicional viene dentro del mismo paquete, no por aparte.</li></ul><p>&nbsp;</p><h3>Resumen de Ventas para Filtros de Ducha 15 Niveles + Repuesto</h3><h4>Ángulos de Venta</h4><p><strong>Salud y Bienestar</strong>:</p><ul><li>Rejuvenece piel y protege el cabello desde el primer uso.&nbsp;</li><li>Reduce irritaciones, picazón y sequedad en la piel.</li><li>Mejora condiciones como eczema y caspa.</li></ul><p><strong>Calidad del Agua</strong>:</p><ul><li>Elimina cloro, pesticidas, productos farmacéuticos, suciedad y olores.</li><li>Controla la acumulación de escamas.</li></ul><p><strong>Eficiencia Económica</strong>:</p><ul><li>Cada repuesto dura 6 meses o 10,000 galones de agua.</li><li>Costo de operación: inversión inferior a una moneda de 400 pesos por día ( cálculo de inversión para filtro + repuesto adicional de uso 1 año a un costo por compra de 130,000 pesos)&nbsp;</li></ul><p><strong>Instalación Sencilla</strong>:</p><ul><li>Se adapta a todo tipo de duchas (fijas, de lluvia, de mano) sin necesidad de herramientas.</li><li>Fácil intercambio de filtros.</li></ul><p><strong>Beneficios Adicionales</strong>:</p><ul><li>Protección contra metales pesados.</li><li>Mejora la calidad del aire al reducir vapores químicos.</li><li><strong>Hidratación</strong>: Mantiene el manto hidrolipídico de la piel.</li><li><strong>Cuidado del Cabello</strong>: Previene decoloración y mejora la elasticidad.</li><li><strong>Bienestar Familiar</strong>: Ideal para niños y personas con piel sensible.</li></ul><h4>Diferenciadores</h4><ul><li><strong>Tecnología de Filtración Avanzada</strong>: Medios redox, sulfito de calcio, carbón activado de coco, vitamina C y minerales.</li><li><strong>Ecológico</strong>: Libre de sulfito cálcico (E226), basado en carbón activado y fibra de algodón.</li><li><strong>Certificaciones</strong>: Ecológicos y certificados por universidades.</li></ul><h4>Información Adicional</h4><ul><li><strong>Estudios de Salud</strong>: Investigaciones indican que el agua de ducha puede albergar bacterias patógenas (Mycobacterium).</li><li><strong>Mejora del Aire</strong>: Filtrar el agua reduce la inhalación de productos químicos en el vapor.</li></ul><p>Un filtro de ducha es esencial para mejorar la calidad del agua, proteger la piel y el cabello, y asegurar un ambiente más saludable en el hogar.</p><h3>Ángulos de venta sugeridos:</h3><p><strong>¿Sabías que el cuidado de tu cabello depende más de la calidad del agua que del shampoo?</strong> El agua de ducha y sus químicos producen resequedad y maltrato en el cabello, contribuyendo a problemas como la caspa.</p><p><strong>¿Por qué debemos filtrar el agua de ducha?</strong> Las cañerías pueden contener óxidos y metales que son perjudiciales al contacto diario con nuestra piel.</p><p><strong>¿Sabías que el agua de ducha contiene altas concentraciones de químicos?</strong> Cloro, pesticidas y otros contaminantes pueden afectar tu salud y bienestar general.</p><p><strong>¿Sabías que el vapor de la ducha puede ser perjudicial?</strong> Inhalar vapor con químicos puede irritar tus pulmones y agravar problemas respiratorios.</p><p><strong>¿Te preocupa la piel sensible?</strong> Filtrar el agua puede ayudar a reducir síntomas como picazón, irritaciones y reacciones alérgicas.</p><p><strong>¿Sabías que el cloro puede despojar a tu piel de sus aceites naturales?</strong> Un filtro de ducha ayuda a mantener la hidratación y salud de tu piel.</p><p><strong>¿Quieres un cabello más saludable?</strong> Filtrar el agua evita la decoloración y mejora la textura y brillo del cabello.</p><p><strong>¿Cómo afecta el agua dura a tu salud?</strong> La acumulación de minerales en el agua puede causar sequedad y problemas en la piel y el cabello.</p><p><strong>¿Sabías que los niños son más vulnerables a los contaminantes en el agua?</strong> Filtrar el agua de la ducha proporciona un entorno más seguro y saludable para toda la familia.</p><p><strong>¿Estás expuesto a bacterias peligrosas en tu ducha?</strong> Los filtros pueden ayudar a reducir la presencia de bacterias que pueden causar infecciones en la piel, pulmonares y otros problemas de salud.</p><p><strong>¿Sabías que el agua con la que te duchas todos los días proviene de una tubería que luce así?</strong></p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1149928,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.02 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149929,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.56 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149930,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.09.04 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149931,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.09.15 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149932,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.41 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149933,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.41 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149934,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.10 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149935,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.49 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149936,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.07.26 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149937,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129753Captura de Pantalla 2024-09-23 a la(s) 4.08.32 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1149938,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129753Captura de Pantalla 2024-09-23 a la(s) 4.07.47 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1150764,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144845IMG_7222.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1150765,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144848IMG_7220.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1150766,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144849IMG_7223.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1150767,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144849IMG_7221.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1150862,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153616TUBERIA AGUA.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1150863,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153617Captura de Pantalla 2024-09-23 a la(s) 11.51.50 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1150864,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153752Captura de Pantalla 2024-09-23 a la(s) 11.51.04 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1150865,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153753Captura de Pantalla 2024-09-23 a la(s) 11.54.32 p. m..png",
+        "variation_id": null
+      },
+      {
+        "id": 1150866,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153754Captura de Pantalla 2024-09-23 a la(s) 11.54.45 p. m..png",
+        "variation_id": null
+      }
+    ]
   },
   "924711": {
     "price": 1000,
-    "categories": ["cleaning"]
+    "categories": ["cleaning"],
+    "id": 924711,
+    "stock": 3,
+    "sku": "7890586851600",
+    "variations": [],
+    "name": "Soporte Esterilizador Cepillos Dispensad",
+    "description": "<h2>Descripción</h2><p>CARACTERÍSTICAS<br><br>Material: Plástico.<br>Tamaño Aprox.: 12.5 x 9 x4.5 cm.<br>Funcionamiento: Luz solar/Puerto USB<br>Capacidad de la batería: 2000 mAh<br>Soporte esterilizador UV para cepillos de dientes con dispensador de crema dental.<br>Prevenga el crecimiento de bacterias en los cepillos de dientes nocturnos en ambientes húmedos.<br>Cuenta con 4 orificios para cepillos de dientes esterilizables por Luz UV, también hay espacios de almacenamiento en la parte inferior para que pueda colocar productos para el cuidado de la piel, rasuradoras colgantes, y otros artículos de uso común.<br>Cuenta con un sensor infrarrojo para evitar que los rayos ultravioletas dañen el cuerpo humano. Cuando esté a menos de 1,5 metros del soporte de cepillos de dientes, la esterilización se suspenderá con cero radiación ultravioleta. después de que se vaya, el modo de esterilización se activará nuevamente.<br>Permite que los cepillos estén limpios y libres de gérmenes.<br>No necesita perforar agujeros para instalar el desinfectante de cepillos de dientes, ya que cuenta con un adhesivo fuerte de doble cara para que pueda fijarlo fácilmente en la pared.<br>El esterilizador cuenta con un panel solar de silicio amorfo que ayuda a recargar la luz UV.</p><p>POLITICA DE GARANTIAS</p><p>PARA ESTO SE DEBE DE TENER EN CUENTA:</p><p>&nbsp;✅Para hacer efectiva la garantía, el producto debe devolverse en el mismo estado en el que se entregó debidamente protegido, cuidando el estado del empaque y sellos,la caja original, incluir todos los documentos y/o manuales (si aplica) y las partes completas. &nbsp;</p><p>✅Tan pronto recibamos el producto se evaluara &nbsp;para determinar si presenta fallas por defectos de fábrica o mal uso del producto ,despues de esto se &nbsp;determinará si se realiza el &nbsp;envió del mismo producto o un nuevo producto.</p><p>✅Nosotros como proveedor asumimos el valor &nbsp;del envio a nuestra bodega &nbsp; del &nbsp;producto.para evaluar que sea un defecto de fabrica y no mal uso del mismo.</p><p>&nbsp;</p><p>✅Si el &nbsp;producto producto presenta un defecto por mala fabricación &nbsp;;nosotros asumiremos los costos del envio.</p><p>✅Pero si llega y el Producto y &nbsp;funciona correctamente el cliente debe asumir el valor de flete de vuelta</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 926185,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/924711/1719331827WhatsApp Image 2024-06-25 at 11.06.13 AM.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 926186,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/924711/1719331827WhatsApp Image 2024-06-25 at 11.06.12 AM.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "1607438": {
     "price": 1000,
-    "categories": ["cleaning", "top_seller"]
+    "categories": ["cleaning", "top_seller"],
+    "id": 1607438,
+    "stock": 110,
+    "sku": "Caneca inteligente con sensor 15 LT (2)",
+    "variations": [],
+    "name": "papelera inteligente con sensor 15 LT",
+    "description": "<p>Descripción:</p><p>Material: Fabricado con material PP de alta calidad y duradero.</p><p>Diseño: Cubo de basura con diseño sellado que mantiene el área limpia y libre de olores, proporcionando una experiencia agradable y fresca.</p><p>Características: Bote de basura de inducción con apertura automática a una distancia de hasta 30 cm, con una respuesta rápida de 0.3 segundos. La tapa se cierra automáticamente 5 segundos después de salir de la zona.</p><p>Uso Amplio: Capacidad suficiente para el uso diario, ideal para el dormitorio, la cocina, el baño, la sala de estar, la oficina, etc.</p><p>Práctico: Tamaño compacto, fácil de usar, almacenar y limpiar.</p><p>Especificaciones:</p><p>Material: Polipropileno</p><p>Capacidad:</p><p>15LT: 22 cm x 19 cm x 28 cm</p><p>El paquete incluye:</p><p>1 bote de basura de inducción</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1365258,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228519caneca 2.JPG",
+        "variation_id": null
+      },
+      {
+        "id": 1365257,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228519caneca 3.JPG",
+        "variation_id": null
+      },
+      {
+        "id": 1365256,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228519caneca 1.JPG",
+        "variation_id": null
+      },
+      {
+        "id": 1365250,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228395caneca.webp",
+        "variation_id": null
+      }
+    ]
   },
   "669206": {
     "price": 1000,
-    "categories": ["tools"]
+    "categories": ["tools"],
+    "id": 669206,
+    "stock": 99,
+    "sku": "DF6",
+    "variations": [],
+    "name": "Raqueta Mata Mosquitos Con Doble Lintern",
+    "description": "<p>✨CARACTERÍSTICAS✨</p><p>✅ • Material: Plástico ABS.</p><p>✅ • Tamaño Aprox.: 21cm x 51cm x 2.5cm</p><p>✅ • Peso Aprox.: 254 grs.</p><p>✅ • Se puede cargar mediante el enchufe incorporado</p><p>✅ • Duración de la batería 10 Horas de uso continuo</p><p>✅ • Interruptor frontal de empuje para iluminación en la oscuridad. (interna integrada)</p><p>✅ • Color: Roja, Azul Y Naranja</p><p>✅ • Ideal para el hogar o tienda de campaña.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 653007,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669206/1708639638ae624d24-4876-4337-a212-e4eb254c75c9.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 653008,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669206/17086396384cdfa57e-9e60-4803-841c-0d5c3a222f47.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 653009,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669206/17086396384fce5dbc-f394-4bd2-b1bd-738ed75fd187.jpg",
+        "variation_id": null
+      }
+    ]
   },
   "664479": {
     "price": 1000,
-    "categories": ["tools"]
+    "categories": ["tools"],
+    "id": 664479,
+    "stock": 240,
+    "sku": "Distri - 218",
+    "variations": [],
+    "name": "mini maquina de coser",
+    "description": "<p>Multifunción: La máquina de coser portátil se puede utilizar para hacer manualidades como bolsos, ropa, cortinas, sábanas, manteles, bolsas de compras, bolsas de almuerzo, muñecos de almohada y otros proyectos.</p><p>Bajo ruido: La mini máquina de coser eléctrica portátil produce poco ruido durante su uso, y el extremo del hilo está diseñado con un hilo de fondo, lo que hace que el efecto de costura sea más firme.</p><p>Pequeña y portátil: La máquina de coser de mano es compacta, tiene un aspecto lindo y es lo suficientemente liviana como para caber fácilmente en una bolsa de hombro y llevarla contigo, ideal para viajeros.</p><p>Fácil de operar: La máquina de coser eléctrica portátil se puede ajustar según la destreza y las necesidades de costura, de modo que los principiantes puedan manejarla sin apresurarse, y las manos hábiles pueden aumentar la eficiencia y coser rápidamente.</p><p>Función de iluminación: La mini máquina de coser está equipada con una función de luz LED para ayudarte a ver con más claridad, reducir el daño a los ojos, ser más conveniente de usar y mejorar la eficiencia.</p><p>Especificaciones:</p><p>Tipo de artículo: Máquina de Coser de Mano</p><p>Material del producto: Plástico, Acero Inoxidable</p><p>Especificaciones: 1 Set</p><p>Uso del producto: Para uso doméstico</p><p>Ámbito de aplicación: Para la mayoría de las situaciones</p><p>Cómo usar:</p><p>Sacar un poco más de hilo, al menos 10 cm o más.</p><p>Pasar el hilo inferior y el hilo superior juntos desde el centro del prensatelas hacia atrás.</p><p>Colocar la tela debajo del prensatelas y bajarlo.</p><p>Conectar la alimentación y encenderla, coserá automáticamente, luego presionar para detenerla, o conectar el pedal para coser automáticamente, presionarlo y la costura se soltará y se detendrá.</p><p>Después de coser, levantar el prensatelas, girar la rueda manual hacia adelante y hacia atrás, sacar lentamente la tela y luego cortar.</p><p>GARANTIA: Nuestra Garantía es de 30 días por defectos de fábrica, cualquier inquietud sobre el uso del producto favor comunicarse directamente con nuestro personal de servicio. La garantía no aplica para productos golpeados, mojados, rotos o mal manipulados.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 648324,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/664479/1708486703WhatsApp Image 2024-02-20 at 9.11.54 PM.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 648325,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/664479/1708486703WhatsApp Image 2024-02-20 at 9.11.05 PM.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "1618139": {
     "price": 1000,
-    "categories": ["tools"]
+    "categories": ["tools"],
+    "id": 1618139,
+    "stock": 120,
+    "sku": "789",
+    "variations": [],
+    "name": "Intercomunicador Bluetooth Bt12",
+    "description": "<p>Usando la última tecnología Bluetooth CSR4.2 + EDR, transmisión de señal superior, ultra bajo consumo de energía, todos los dispositivos Bluetooth, función de respuesta automática, función de respuesta manual conmutable del teléfono, seguro y rápido, micrófono integrado anti interferencia de alta calidad que permite responder y colgar llamadas con manos libres. Sonido de alta fidelidad, admite la función de última canción o siguiente canción, suma y resta volumen, pausa de reproducción, devolución de llamada automática y otras funciones, fácil de operar.<br><br><strong>Parámetros del producto:</strong><br>&nbsp;</p><ul><li>Versión Bluetooth: V4.2 + CSR (actualizado, un poco diferente al manual).</li><li>Modo de espera: 120 horas</li><li>Distancia de transmisión: 10M (la distancia de transmisión varía dependiendo de los factores ambientales y los dispositivos Bluetooth del teléfono móvil)</li><li>Distancia del micrófono: 1 metro</li><li>Batería de litio: 3,7 V/500mA</li><li>frecuencia: 2.402 Ghz-2.480 Ghz</li><li>Distancia de emparejamiento Bluetooth: 20-30 metros (dependiendo del dispositivo)</li><li>Tiempo de reproducción: 15 horas.</li><li>Tiempo de carga: = 1 hora.</li><li>Tiempo en espera= 240 horas.</li><li>Nombre de conexión: BT12<br>&nbsp;</li></ul>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1375184,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1618139/1736371870D_NQ_NP_2X_950060-MCO71372748460_082023-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1375183,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1618139/1736371870D_NQ_NP_2X_854869-MCO71416680351_082023-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1375182,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1618139/1736371870D_NQ_NP_2X_832875-MCO75570121388_042024-F.webp",
+        "variation_id": null
+      },
+      {
+        "id": 1375181,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1618139/1736371870D_NQ_NP_2X_762917-MCO71416701297_082023-F.webp",
+        "variation_id": null
+      }
+    ]
   },
   "1166111": {
     "price": 1000,
-    "categories": ["tools"]
+    "categories": ["tools"],
+    "id": 1166111,
+    "stock": 100,
+    "sku": "ff44",
+    "variations": [],
+    "name": "Set x41 Destornilladores De Precisión",
+    "description": "<h2><strong>🔨¡Potencia tu caja de herramientas con este juego de destornilladores de 41 piezas!🔨</strong></h2><h2>&nbsp;<strong>Diseñado para satisfacer todas tus necesidades de reparación y montaje, este set es un imprescindible para cualquier hogar, taller o aficionado al bricolaje</strong></h2><p>&nbsp;</p><p>&nbsp;</p><h2><br>&nbsp;</h2><h2><strong>CARACTERISTICAS</strong></h2><h2><strong>✔️Variedad de puntas:</strong> Incluye 41 unidades con diferentes tipos y tamaños de puntas, como Phillips, planas, Torx, y hexagonales, para adaptarse a cualquier tipo de tornillo.</h2><h2><strong>✔️Material de alta calidad:</strong> Fabricados en acero al cromo vanadio, estos destornilladores son resistentes a la corrosión y garantizan una larga vida útil.</h2><h2><strong>✔️Mangos ergonómicos:</strong> Diseñados para ofrecer un agarre cómodo y seguro, reduciendo la fatiga durante el uso prolongado.</h2><h2><strong>✔️Codificación por colores:</strong> Los mangos están codificados por colores para una identificación rápida y sencilla de cada herramienta.</h2><h2><strong>✔️Caja organizadora:</strong> El set viene en una práctica caja organizadora que mantiene todas las piezas en su lugar, facilitando el transporte y almacenamiento.</h2><figure class=\"image\"><img src=\"https://cdn.shopify.com/s/files/1/0625/4746/0324/files/WhatsApp_Image_2024-08-17_at_9.54.29_AM_4.jpg?v=1723913029\" alt=\"\"></figure><h2><strong>¿Por qué deberías comprarlo?</strong></h2><h2>Este Set x41 Destornilladores De Precisión es perfecto tanto para profesionales como para aficionados. Con una amplia gama de puntas y una construcción robusta, estarás preparado para cualquier tarea, desde las reparaciones más simples en casa hasta los proyectos más complejos. Además, su diseño ergonómico y su organización eficiente te permiten trabajar con comodidad y eficacia, ahorrándote tiempo y esfuerzo.</h2><p>&nbsp;</p><h2><strong>¡No pierdas la oportunidad de equiparte con un set de herramientas tan completo y versátil! Añádelo a tu colección hoy mismo y enfrenta cualquier reto con confianza y facilidad. ¡Tu trabajo será más fácil y profesional con esteSet x41 Destornilladores De Precisión!</strong></h2>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1106431,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1166111/17255665932e0ac5b5-c923-415b-be67-c9bbb037db4d.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1106432,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1166111/172556659368f582ce-5bce-4dea-a4ff-8ae0fad224ae.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 1106433,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1166111/172556659359c5930e-98bb-4fd1-88b1-658eb95726e2.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "1421771": {
     "price": 1000,
-    "categories": ["tools"]
+    "categories": ["tools"],
+    "id": 1421771,
+    "stock": 192,
+    "sku": "JVR8XIM42O",
+    "variations": [],
+    "name": "CANDADO INTELIGENTE CON HUELLA DACTILAR",
+    "description": "<p>El candado inteligente con huella dactilar es la solución perfecta para quienes buscan una forma segura y conveniente de proteger sus pertenencias. Este candado combina tecnología de vanguardia con un diseño elegante, ofreciendo una experiencia de seguridad sin complicaciones.</p><p><strong>Características Principales:</strong></p><p><strong>Autenticación Biométrica:</strong></p><p>Equipado con un sensor de huella dactilar de alta precisión, el candado permite el acceso instantáneo con solo tocarlo. Soporta hasta 10 huellas dactilares diferentes, ideal para familias o grupos.</p><p><strong>Construcción Robusta:</strong></p><p>Fabricado con acero inoxidable de alta resistencia, el candado es resistente a la corrosión y al corte, asegurando una protección duradera en cualquier entorno.</p><p><strong>Diseño Compacto y Moderno:</strong></p><p>Con un diseño minimalista y ligero, el candado es fácil de transportar y se adapta a cualquier tipo de puerta, armario o maleta.</p><p><strong>Uso Versátil:</strong></p><p>Ideal para bicicletas, casilleros, mochilas y puertas de casa. Su versatilidad lo convierte en el compañero perfecto para la vida diaria, viajes o actividades al aire libre.</p><p><strong>Especificaciones Técnicas:</strong></p><ul><li>Dimensiones: 7,6 cm x 4,6 cm x 1,3 cm</li><li>Peso: 106 gramos</li><li>Material: Acero inoxidable y plástico ABS</li><li><strong>Capacidad de huellas: Hasta 20 Huellas</strong></li><li>Contiene: carga USB, cable tipo C</li></ul>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1257297,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242xuXOScfb1efc0153448af953f486f2d0d5ac6O.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1257296,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (5).jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1257295,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1257294,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (2).jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1257293,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (4).jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1257292,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (1).jpg",
+        "variation_id": null
+      },
+      {
+        "id": 1257291,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (3).jpg",
+        "variation_id": null
+      }
+    ]
   },
   "786278": {
     "price": 1000,
-    "categories": ["tools"]
+    "categories": ["tools"],
+    "id": 786278,
+    "stock": 50,
+    "sku": "Mkb112",
+    "variations": [],
+    "name": "Báscula o pesa de maletas",
+    "description": "<p>Hola tenemos más de 500 productos en tendencia con una excelente logística en despacho y atención al cliente. contáctanos resolvemos tus dudas y verificamos el stock que requieres.<br>&nbsp;</p><p>Bascula digital portátil</p><p>con Pilas</p><p>perfecta para pesar tus maletas</p><p>peso Máximo 50kg</p><p>te indica cuando la batería baja</p><p>presentacion en blister&nbsp;</p><p>Medidas: 18cm largo y 17cm ancho&nbsp;</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 762050,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/786278/1713403034876510CD-0637-4EED-B208-808FC0E3B52C.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 762051,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/786278/17134030340D9EF8B0-5576-482A-A190-B11AA1D2A42C.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 762052,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/786278/1713403035AE319F84-6631-459C-BE70-24FAACAA35F8.jpeg",
+        "variation_id": null
+      },
+      {
+        "id": 762053,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/786278/1713403035342AEB35-BA7F-4529-B40C-F4E4DFB33075.jpeg",
+        "variation_id": null
+      }
+    ]
   },
   "92078": {
     "price": 1000,
-    "categories": ["tools", "top_seller"]
+    "categories": ["tools", "top_seller"],
+    "id": 92078,
+    "stock": 147,
+    "sku": "BASCULA-10",
+    "variations": [],
+    "name": "BASCULA INTELIGENTE BLUETOOTH",
+    "description": "<p>BIENVENIDOS A DIMCA TECHNOLOGY</p><p>BASCULA BLUETOOTH</p><p>Material Vidrio templado Dimensiones del artículo 30x30x2.4 Sincronización de teléfonos inteligentes: nuestra báscula bluetooth se conecta con las aplicaciones Apple Health, Google Fit y Fitbit para obtener una visión completa de la composición corporal y el bienestar físico. Realice un seguimiento y registre su progreso a lo largo del tiempo con la aplicación Active Era Smart gratuita y fácil de usar para iPhone y Android. 15 características esenciales: utiliza tecnología BIA líder en la industria para obtener datos precisos de composición corporal, incluido el peso, índice de masa corporal (IMC), porcentaje de grasa corporal, grasa visceral, porcentaje de agua corporal, masa muscular, masa ósea, porcentaje de músculo esquelético, porcentaje de proteína, TMB y edad metabólica. Todo visible en la aplicación Active Era Smart.</p><p>La Garantía sera valida por defectos de fabrica o Mal funcionamiento del producto. ¿Tu producto tiene alguna novedad que debamos reportar?* Una vez recibas tu producto, cuentas con máximo 5 días para reportar a Soporte: piezas faltantes, rotas o cualquier novedad que presente el producto. ¿No era lo que esperabas? Aplica Ley retracto Durante 5 días, contados a partir de la recepción del producto, para la devolución, ten en cuenta que debe estar en las condiciones que se recibió, con su empaque original, con las etiquetas, sellos de seguridad, y contar con todas sus partes y/o accesorios. Sin rayones ni manchas. Se recibirá únicamente en óptimas condiciones. Se anulará automáticamente el derecho a retracto si el producto fue usado. ¿Tu producto está presentando fallas? Cuentas con 30 días de garantía por funcionamiento y/o daños del producto que no estén relacionados a su mal uso. Para hacer efectiva la devolución, el producto debe entregarse debidamente protegido cuidando el estado del empaque original, incluir todos los documentos y/o manuales (si aplica) y las partes completas - -Garantía: 3 meses por defectos de fábrica. *El producto debe estar en las condiciones que se recibió, con su empaque original, con las etiquetas, sellos de seguridad, y contar con todas sus partes y/o accesorios. Sin rayones ni manchas, sin evidencias de manipulación o uso, se recibirá únicamente en óptimas condiciones.</p><p>Para retractos: Por favor revise el producto apenas lo reciba y antes de usarlo. No aplica ley de retracto luego de usar el producto. Se manejan máximo 5 días para reportarlo. Para hacer efectiva la devolución el producto debe devolverse con el empaque original, el cual debe estar en buen estado, incluir todos los documentos y sin daños.</p>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 115061,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/92078/170 basc.jpg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/92078/17023945291702394529170 basc.jpg",
+        "variation_id": null
+      },
+      {
+        "id": 115060,
+        "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/92078/169 basc.jpg",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/92078/17023945291702394529169 basc.jpg",
+        "variation_id": null
+      }
+    ]
   },
   "1484215": {
     "price": 1000,
-    "categories": ["top_seller"]
+    "categories": ["top_seller"],
+    "id": 1484215,
+    "stock": 250,
+    "sku": "666-802A",
+    "variations": [],
+    "name": "CARRO A CONTROL BLADE AMPHIBIOUS",
+    "description": "<h2>CONTENIDO GRÁFICO PARA ESTE PRODUCTO:</h2><h3><a href=\"https://1drv.ms/f/s!AqCbY5ny1EPxgoxZDtFkFxNp5-B18A?e=2ZQkCp\">TDM-666-802A</a></h3><p>&nbsp;</p><h3>DESCRIPCIÓN:</h3><h3>El auto anfibio a control remoto ofrece una experiencia de juego versátil y emocionante tanto en tierra como en agua, mientras fomenta el desarrollo de habilidades motoras y cognitivas en los niños. Su construcción duradera y alta calidad garantiza diversión continua y segura en cualquier entorno, brindando tranquilidad a los padres y una experiencia memorable para los niños. Transforma cada aventura en una experiencia inolvidable, permitiendo a los niños explorar de manera segura y emocionante tanto en tierra como en agua.</h3><h3>&nbsp;</h3><h3>CARACTERISTICAS:</h3><h3>🚗 <strong>Versatilidad Total:</strong> Funciona perfectamente en tierra y agua, asegurando horas de juego sin interrupciones.</h3><h3>🔋 <strong>Duración Extendida:</strong> Equipado con baterías recargables que ofrecen 20 minutos de diversión continua.</h3><h3>🌊 <strong>Diseño Resistente:</strong> Materiales de alta calidad que soportan cualquier terreno y ambiente.</h3><h3>🎮 <strong>Control Preciso:</strong> Tecnología de 2.4 GHz para un manejo suave y sin interferencias.</h3><h3>&nbsp;</h3><h3>🏢DISTRIBUIDORA EL IMPACTO: EL PROVEEDOR PERFECTO PARA TÚ NEGOCIO🏢&nbsp;</h3><h3>Ofrecemos más de 4.000 productos de alta calidad y precios competitivos además somos importadores directos, proveedores mayoristas y Dropshipping.&nbsp;</h3><h3>&nbsp;</h3><h3>📊🛒 COMUNIDAD EN WHATSAPP:&nbsp;</h3><h3><a href=\"https://whatsapp.com/channel/0029Va0Oe2IEAKWKOFllvi0o\">https://whatsapp.com/channel/0029Va0Oe2IEAKWKOFllvi0o</a></h3><h3>&nbsp;</h3><h3><i>DESPACHOS IMPACTO</i> 📦🚚&nbsp;</h3><h3>Pedidos que monte de lunes a viernes antes de las 2pm se envía el mismo día y sábados pedidos que montes antes de 10 am ⏰&nbsp;</h3><h3>los domingos ni festivos se trabaja ❌</h3>",
+    "active": true,
+    "gallery": [
+      {
+        "id": 1288989,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1484215/1731688633IMG-20231216-WA0376 (1).jpg",
+        "variation_id": null
+      }
+    ]
   }
 }

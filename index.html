@@ -210,7 +210,11 @@
     <script>
       document.addEventListener("DOMContentLoaded", async function () {
         try {
-          const response = await fetch("data/products.json");
+          // Append timestamp to ensure fresh version is fetched
+          const timestamp = new Date().getTime();
+          const response = await fetch(
+            `data/products.json?version=${timestamp}`
+          );
           const data = await response.json();
           console.log(data);
 
@@ -226,7 +230,7 @@
             const productHTML = `
         <div class="col">
           <div class="item">
-            <img src=${product.gallery[0].urlS3}" alt="${product.name}" />
+            <img src="${product.gallery[0].urlS3}" alt="${product.name}" />
             <div class="down-content">
               <h4>${product.name}</h4>
               <span>$${product.price.toLocaleString()}</span>
