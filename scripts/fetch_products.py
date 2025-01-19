@@ -1,6 +1,7 @@
 import os
 import json
-import requests
+import asyncio
+import aiohttp
 
 # Load environment variables
 DROPI_EMAIL = os.getenv("DROPI_EMAIL")
@@ -12,30 +13,36 @@ PRODUCT_URL = "https://api.dropi.co/api/products/productlist/v1/show/?id={}"
 
 PRODUCTS_FILE = "data/products.json"
 
-def login():
-    """Logs in and retrieves an authorization token."""
-    response = requests.post(LOGIN_URL, json={
+async def login(session):
+    """Logs in and retrieves an authorization token asynchronously."""
+    async with session.post(LOGIN_URL, json={
         "email": DROPI_EMAIL,
         "password": DROPI_PASSWORD,
         "white_brand_id": 1,
         "brand": "",
         "ipAddress": "190.28.6.43",
         "otp": None
-    })
-    response.raise_for_status()
-    return response.json().get("token")
+    }) as response:
+        if response.status != 200:
+            print(f"❌ Login failed: {response.status}")
+            return None
+        data = await response.json()
+        token = data.get("token")
+        if not token:
+            print("❌ No token received!")
+        return token
 
-def fetch_product_data(token, product_id):
-    """Fetches product details from the API."""
+async def fetch_product_data(session, token, product_id):
+    """Fetches product details asynchronously."""
     headers = {"X-Authorization": f"Bearer {token}"}
-    response = requests.get(PRODUCT_URL.format(product_id), headers=headers)
-    
-    if response.status_code == 404:
-        print(f"Product {product_id} not found, skipping...")
-        return None
-
-    response.raise_for_status()
-    return response.json()
+    async with session.get(PRODUCT_URL.format(product_id), headers=headers) as response:
+        if response.status == 404:
+            print(f"⚠️ Product {product_id} not found, skipping...")
+            return None
+        if response.status != 200:
+            print(f"❌ Error fetching product {product_id}: {response.status}")
+            return None
+        return await response.json()
 
 def augment_product_data(existing_data, fetched_data):
     """Merges fetched product data with existing data."""
@@ -71,7 +78,7 @@ def augment_product_data(existing_data, fetched_data):
         ]
     }
 
-def main():
+async def main():
     # Load product IDs from existing JSON
     with open(PRODUCTS_FILE, "r", encoding="utf-8") as file:
         products_data = json.load(file)
@@ -79,13 +86,21 @@ def main():
     product_ids = list(products_data.keys())  # Extract IDs from keys
     print(f"Fetching details for {len(product_ids)} products...")
 
-    token = login()
+    async with aiohttp.ClientSession() as session:
+        token = await login(session)
+        if not token:
+            print("❌ Exiting: No valid token received.")
+            return
 
-    updated_data = {}
-    for product_id in product_ids:
-        fetched_data = fetch_product_data(token, product_id)
-        if fetched_data:
-            updated_data[product_id] = augment_product_data(products_data[product_id], fetched_data)
+        # Fetch product data asynchronously
+        tasks = [fetch_product_data(session, token, pid) for pid in product_ids]
+        fetched_products = await asyncio.gather(*tasks)
+
+    updated_data = {
+        product_id: augment_product_data(products_data[product_id], fetched_data)
+        for product_id, fetched_data in zip(product_ids, fetched_products)
+        if fetched_data  # Ignore failed requests
+    }
 
     # Save updated JSON
     with open(PRODUCTS_FILE, "w", encoding="utf-8") as file:
@@ -94,4 +109,4 @@ def main():
     print("✅ Products updated successfully!")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
