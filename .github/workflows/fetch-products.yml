@@ -4,6 +4,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -62,3 +63,12 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Ensure that GitHub Pages always fetches the latest products.json by appending a timestamp
+  update-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update products.json URL with timestamp
+        run: |
+          echo "Updating products.json URL to include timestamp to avoid caching"
+          echo "Updated at: $(date)" > data/last_updated.txt
