@@ -48,7 +48,6 @@ jobs:
           git add data/products.json
           git commit -m "[chore]: Update product data [skip ci]" || echo "No changes to commit"
           git push
-
   deploy:
     needs: fetch-products
     environment:
@@ -61,6 +60,11 @@ jobs:
 
       - name: Verify branch is correct for GitHub Pages
         run: echo "Deploying to ${GITHUB_REF}"
+
+      - name: Set up Git user identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Touch index.html to force deployment
         run: |
