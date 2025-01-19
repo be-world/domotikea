@@ -119,7 +119,7 @@ async def main():
         for product_id in product_ids:
             fetched_data = await fetch_product_data(session, token, product_id)
             if fetched_data:
-                updated_data[product_id] = augment_product_data(products_data[product_id], fetched_data.objects)
+                updated_data[product_id] = augment_product_data(products_data[product_id], fetched_data)
 
     # Save updated JSON
     with open(PRODUCTS_FILE, "w", encoding="utf-8") as file:
