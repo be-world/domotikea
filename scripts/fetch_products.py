@@ -56,7 +56,7 @@ async def fetch_product_data(session, token, product_id):
                 return None
             
             print(f"✅ Fetched product {product_id} response: {json.dumps(product_data, indent=2)[:500]}... (truncated)")
-            return product_data
+            return product_data.get("objects", {})
     except Exception as e:
         print(f"❌ Error fetching product {product_id}: {e}")
         return None
@@ -119,7 +119,7 @@ async def main():
         for product_id in product_ids:
             fetched_data = await fetch_product_data(session, token, product_id)
             if fetched_data:
-                updated_data[product_id] = augment_product_data(products_data[product_id], fetched_data)
+                updated_data[product_id] = augment_product_data(products_data[product_id], fetched_data.objects)
 
     # Save updated JSON
     with open(PRODUCTS_FILE, "w", encoding="utf-8") as file:
