@@ -17,6 +17,8 @@ on:
 jobs:
   fetch-products:
     runs-on: ubuntu-latest
+    outputs:
+      products-updated: ${{ steps.products.outputs.updated }}
 
     steps:
       - name: Checkout repository
@@ -45,8 +47,13 @@ jobs:
           git commit -m "[chore]: Update product data [skip ci]" || echo "No changes to commit"
           git push
 
+      - name: Mark products as updated
+        id: products
+        run: echo "updated=true" >> $GITHUB_ENV
+
   deploy:
     needs: fetch-products
+    if: needs.fetch-products.outputs.products-updated == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
