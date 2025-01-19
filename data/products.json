@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Masajeador Facial",
+      "price": 12345
+    },
+    {
+      "id": 2,
+      "name": "Nutria respiradora",
+      "price": 5123312
+    },
+    {
+      "id": 3,
+      "name": "Humidificador hongo",
+      "price": 4221
+    },
+    {
+      "id": 4,
+      "name": "Caneca inteligente con sensor",
+      "price": 1234
+    },
+    {
+      "id": 5,
+      "name": "Raqueta anti-mosquitos",
+      "price": 534234
+    },
+    {
+      "id": 6,
+      "name": "Tijera cuchillo",
+      "price": 34523
+    }
+  ]
+}

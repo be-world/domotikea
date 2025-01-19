@@ -42,22 +42,6 @@
     <div id="header-container"></div>
     <!-- ***** Header Area End ***** -->
 
-    <!-- ***** Main Banner Area Start ***** -->
-    <div class="page-heading" id="top">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="inner-content">
-              <h2>Aqui comienza</h2>
-              <span>Awesome &amp; Creative HTML CSS layout by TemplateMo</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- ***** Main Banner Area End ***** -->
-
-    <!-- ***** Men Area Starts ***** -->
     <section class="section" id="men">
       <div class="container">
         <div class="row">
@@ -79,95 +63,6 @@
         ></div>
       </div>
     </section>
-    <!-- ***** Men Area Ends ***** -->
-
-    <!-- ***** Social Area Starts ***** -->
-    <!-- <section class="section" id="social">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="section-heading">
-              <h2>Social Media</h2>
-              <span
-                >Details to details is what makes Hexashop different from the
-                other themes.</span
-              >
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row images">
-          <div class="col-2">
-            <div class="thumb">
-              <div class="icon">
-                <a href="http://instagram.com">
-                  <h6>Fashion</h6>
-                  <i class="fa fa-instagram"></i>
-                </a>
-              </div>
-              <img src="assets/images/instagram-01.jpg" alt="" />
-            </div>
-          </div>
-          <div class="col-2">
-            <div class="thumb">
-              <div class="icon">
-                <a href="http://instagram.com">
-                  <h6>New</h6>
-                  <i class="fa fa-instagram"></i>
-                </a>
-              </div>
-              <img src="assets/images/instagram-02.jpg" alt="" />
-            </div>
-          </div>
-          <div class="col-2">
-            <div class="thumb">
-              <div class="icon">
-                <a href="http://instagram.com">
-                  <h6>Brand</h6>
-                  <i class="fa fa-instagram"></i>
-                </a>
-              </div>
-              <img src="assets/images/instagram-03.jpg" alt="" />
-            </div>
-          </div>
-          <div class="col-2">
-            <div class="thumb">
-              <div class="icon">
-                <a href="http://instagram.com">
-                  <h6>Makeup</h6>
-                  <i class="fa fa-instagram"></i>
-                </a>
-              </div>
-              <img src="assets/images/instagram-04.jpg" alt="" />
-            </div>
-          </div>
-          <div class="col-2">
-            <div class="thumb">
-              <div class="icon">
-                <a href="http://instagram.com">
-                  <h6>Leather</h6>
-                  <i class="fa fa-instagram"></i>
-                </a>
-              </div>
-              <img src="assets/images/instagram-05.jpg" alt="" />
-            </div>
-          </div>
-          <div class="col-2">
-            <div class="thumb">
-              <div class="icon">
-                <a href="http://instagram.com">
-                  <h6>Bag</h6>
-                  <i class="fa fa-instagram"></i>
-                </a>
-              </div>
-              <img src="assets/images/instagram-06.jpg" alt="" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
-    <!-- ***** Social Area Ends ***** -->
 
     <!-- ***** Footer Start ***** -->
     <div id="footer-container"></div>
@@ -219,16 +114,16 @@
 
           products.forEach((product) => {
             const productHTML = `
-        <div class="col">
-          <div class="item">
-            <img src="assets/images/men.jpg" alt="${product.name}" />
-            <div class="down-content">
-              <h4>${product.name}</h4>
-              <span>$${product.price.toLocaleString()}</span>
-            </div>
+      <div class="col">
+        <div class="item">
+          <img src="assets/images/men.jpg" alt="${product.name}" />
+          <div class="down-content">
+            <h4>${product.name}</h4>
+            <span>$${product.price.toLocaleString()}</span>
           </div>
         </div>
-      `;
+      </div>
+    `;
             container.innerHTML += productHTML;
           });
         } catch (error) {
