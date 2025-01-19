@@ -1,28 +1,7 @@
 {
   "48110": {
     "price": 1000,
-    "categories": ["smart_home"],
-    "id": 1,
-    "stock": "",
-    "sku": "",
-    "variations": [
-      {
-        "attribute_values": [{ "attribute_name": "", "value": "", "id": "" }],
-        "id": "",
-        "stock": ""
-      }
-    ],
-    "name": "",
-    "description": "",
-    "active": "",
-    "gallery": [
-      {
-        "id": "",
-        "url": "",
-        "urlS3": "",
-        "variation_id": ""
-      }
-    ]
+    "categories": ["smart_home"]
   },
   "1366156": {
     "price": 1000,
