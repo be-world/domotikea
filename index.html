@@ -212,16 +212,21 @@
         try {
           const response = await fetch("data/products.json");
           const data = await response.json();
+          console.log(data);
+
           const products = Object.values(data);
+          console.log(products);
 
           const container = document.getElementById("product-list");
           container.innerHTML = "";
 
           products.forEach((product) => {
+            console.log(product);
+
             const productHTML = `
         <div class="col">
           <div class="item">
-            <img src="assets/images/men.jpg" alt="${product.name}" />
+            <img src=${product.gallery[0].urlS3}" alt="${product.name}" />
             <div class="down-content">
               <h4>${product.name}</h4>
               <span>$${product.price.toLocaleString()}</span>
