@@ -1,34 +1,159 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Masajeador Facial",
-      "price": 12345
-    },
-    {
-      "id": 2,
-      "name": "Nutria respiradora",
-      "price": 5123312
-    },
-    {
-      "id": 3,
-      "name": "Humidificador hongo",
-      "price": 4221
-    },
-    {
-      "id": 4,
-      "name": "Caneca inteligente con sensor",
-      "price": 1234
-    },
-    {
-      "id": 5,
-      "name": "Raqueta anti-mosquitos",
-      "price": 534234
-    },
-    {
-      "id": 6,
-      "name": "Tijera cuchillo",
-      "price": 34523
-    }
-  ]
+  "48110": {
+    "price": 1000,
+    "categories": ["smart_home"],
+    "id": 1,
+    "stock": "",
+    "sku": "",
+    "variations": [
+      {
+        "attribute_values": [{ "attribute_name": "", "value": "", "id": "" }],
+        "id": "",
+        "stock": ""
+      }
+    ],
+    "name": "",
+    "description": "",
+    "active": "",
+    "gallery": [
+      {
+        "id": "",
+        "url": "",
+        "urlS3": "",
+        "variation_id": ""
+      }
+    ]
+  },
+  "1366156": {
+    "price": 1000,
+    "categories": ["smart_home"]
+  },
+  "979916": {
+    "price": 1000,
+    "categories": ["smart_home"]
+  },
+  "639229": {
+    "price": 1000,
+    "categories": ["smart_home"]
+  },
+  "1590849": {
+    "price": 1000,
+    "categories": ["smart_home"]
+  },
+  "1055265": {
+    "price": 1000,
+    "categories": ["smart_home"]
+  },
+  "785281": {
+    "price": 1000,
+    "categories": ["smart_home"]
+  },
+  "1174056": {
+    "price": 1000,
+    "categories": ["smart_home", "top_seller"]
+  },
+  "172525": {
+    "price": 1000,
+    "categories": ["kitchen"]
+  },
+  "1057956": {
+    "price": 1000,
+    "categories": ["kitchen"]
+  },
+  "599258": {
+    "price": 1000,
+    "categories": ["kitchen"]
+  },
+  "458554": {
+    "price": 1000,
+    "categories": ["kitchen", "top_seller"]
+  },
+  "1624938": {
+    "price": 1000,
+    "categories": ["illumination"]
+  },
+  "656971": {
+    "price": 1000,
+    "categories": ["illumination"]
+  },
+  "1573709": {
+    "price": 1000,
+    "categories": ["illumination"]
+  },
+  "970488": {
+    "price": 1000,
+    "categories": ["illumination"]
+  },
+  "751123": {
+    "price": 1000,
+    "categories": ["illumination", "top_seller"]
+  },
+  "752292": {
+    "price": 1000,
+    "categories": ["wellness"]
+  },
+  "1048159": {
+    "price": 1000,
+    "categories": ["wellness"]
+  },
+  "669068": {
+    "price": 1000,
+    "categories": ["wellness"]
+  },
+  "85099": {
+    "price": 1000,
+    "categories": ["wellness"]
+  },
+  "353320": {
+    "price": 1000,
+    "categories": ["wellness", "top_seller"]
+  },
+  "72854": {
+    "price": 1000,
+    "categories": ["cleaning"]
+  },
+  "1236155": {
+    "price": 1000,
+    "categories": ["cleaning"]
+  },
+  "924711": {
+    "price": 1000,
+    "categories": ["cleaning"]
+  },
+  "1607438": {
+    "price": 1000,
+    "categories": ["cleaning", "top_seller"]
+  },
+  "669206": {
+    "price": 1000,
+    "categories": ["tools"]
+  },
+  "664479": {
+    "price": 1000,
+    "categories": ["tools"]
+  },
+  "1618139": {
+    "price": 1000,
+    "categories": ["tools"]
+  },
+  "1166111": {
+    "price": 1000,
+    "categories": ["tools"]
+  },
+  "1421771": {
+    "price": 1000,
+    "categories": ["tools"]
+  },
+  "786278": {
+    "price": 1000,
+    "categories": ["tools"]
+  },
+  "92078": {
+    "price": 1000,
+    "categories": ["tools", "top_seller"]
+  },
+  "1484215": {
+    "price": 1000,
+    "categories": ["top_seller"]
+  }
 }
