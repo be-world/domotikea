@@ -212,7 +212,7 @@
         try {
           const response = await fetch("data/products.json");
           const data = await response.json();
-          const products = data.products;
+          const products = Object.values(data);
 
           const container = document.getElementById("product-list");
           container.innerHTML = "";
