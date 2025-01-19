@@ -34,7 +34,7 @@ async def login(session):
                 print(f"❌ Login response: {login_data}")
                 print("❌ No token received!")
             else:
-                print("✅ Login successful!")
+                print(f"✅ Login successful! Token: {token[:20]}... (truncated for security)")
 
             return token
     except Exception as e:
@@ -46,15 +46,16 @@ async def fetch_product_data(session, token, product_id):
     headers = {"X-Authorization": f"Bearer {token}"}
     try:
         async with session.get(PRODUCT_URL.format(product_id), headers=headers) as response:
+            product_data = await response.json()
+            
             if response.status == 404:
                 print(f"⚠️ Product {product_id} not found, skipping...")
                 return None
             if response.status != 200:
-                print(f"❌ Error fetching product {product_id}: {response.status}")
+                print(f"❌ Error fetching product {product_id}: {response.status} - {product_data}")
                 return None
             
-            product_data = await response.json()
-            print(f"✅ Fetched product {product_id}")
+            print(f"✅ Fetched product {product_id} response: {json.dumps(product_data, indent=2)[:500]}... (truncated)")
             return product_data
     except Exception as e:
         print(f"❌ Error fetching product {product_id}: {e}")
@@ -112,15 +113,13 @@ async def main():
             print("❌ Exiting: No valid token received.")
             return
 
-        # Fetch product data asynchronously
-        tasks = [fetch_product_data(session, token, pid) for pid in product_ids]
-        fetched_products = await asyncio.gather(*tasks)
+        updated_data = {}
 
-    updated_data = {
-        product_id: augment_product_data(products_data[product_id], fetched_data)
-        for product_id, fetched_data in zip(product_ids, fetched_products)
-        if fetched_data  # Ignore failed requests
-    }
+        # Fetch product data one by one, ensuring each request completes before moving to the next
+        for product_id in product_ids:
+            fetched_data = await fetch_product_data(session, token, product_id)
+            if fetched_data:
+                updated_data[product_id] = augment_product_data(products_data[product_id], fetched_data)
 
     # Save updated JSON
     with open(PRODUCTS_FILE, "w", encoding="utf-8") as file:
