@@ -15,34 +15,50 @@ PRODUCTS_FILE = "data/products.json"
 
 async def login(session):
     """Logs in and retrieves an authorization token asynchronously."""
-    async with session.post(LOGIN_URL, json={
-        "email": DROPI_EMAIL,
-        "password": DROPI_PASSWORD,
-        "white_brand_id": 1,
-        "brand": "",
-        "ipAddress": "190.28.6.43",
-        "otp": None
-    }) as response:
-        if response.status != 200:
-            print(f"❌ Login failed: {response.status}")
-            return None
-        data = await response.json()
-        token = data.get("token")
-        if not token:
-            print("❌ No token received!")
-        return token
+    try:
+        async with session.post(LOGIN_URL, json={
+            "email": DROPI_EMAIL,
+            "password": DROPI_PASSWORD,
+            "white_brand_id": 1,
+            "brand": "",
+            "ipAddress": "190.28.6.43",
+            "otp": None
+        }) as response:
+            login_data = await response.json()
+            if response.status != 200:
+                print(f"❌ Login failed: {response.status} - {login_data}")
+                return None
+            
+            token = login_data.get("token")
+            if not token:
+                print(f"❌ Login response: {login_data}")
+                print("❌ No token received!")
+            else:
+                print("✅ Login successful!")
+
+            return token
+    except Exception as e:
+        print(f"❌ Login error: {e}")
+        return None
 
 async def fetch_product_data(session, token, product_id):
     """Fetches product details asynchronously."""
     headers = {"X-Authorization": f"Bearer {token}"}
-    async with session.get(PRODUCT_URL.format(product_id), headers=headers) as response:
-        if response.status == 404:
-            print(f"⚠️ Product {product_id} not found, skipping...")
-            return None
-        if response.status != 200:
-            print(f"❌ Error fetching product {product_id}: {response.status}")
-            return None
-        return await response.json()
+    try:
+        async with session.get(PRODUCT_URL.format(product_id), headers=headers) as response:
+            if response.status == 404:
+                print(f"⚠️ Product {product_id} not found, skipping...")
+                return None
+            if response.status != 200:
+                print(f"❌ Error fetching product {product_id}: {response.status}")
+                return None
+            
+            product_data = await response.json()
+            print(f"✅ Fetched product {product_id}")
+            return product_data
+    except Exception as e:
+        print(f"❌ Error fetching product {product_id}: {e}")
+        return None
 
 def augment_product_data(existing_data, fetched_data):
     """Merges fetched product data with existing data."""
@@ -80,11 +96,15 @@ def augment_product_data(existing_data, fetched_data):
 
 async def main():
     # Load product IDs from existing JSON
-    with open(PRODUCTS_FILE, "r", encoding="utf-8") as file:
-        products_data = json.load(file)
+    try:
+        with open(PRODUCTS_FILE, "r", encoding="utf-8") as file:
+            products_data = json.load(file)
+    except FileNotFoundError:
+        print(f"❌ Error: {PRODUCTS_FILE} not found.")
+        return
 
     product_ids = list(products_data.keys())  # Extract IDs from keys
-    print(f"Fetching details for {len(product_ids)} products...")
+    print(f"📦 Fetching details for {len(product_ids)} products...")
 
     async with aiohttp.ClientSession() as session:
         token = await login(session)
