@@ -3,10 +3,9 @@ import json
 import asyncio
 import aiohttp
 
-# Load environment variables
 DROPI_EMAIL = os.getenv("DROPI_EMAIL")
 DROPI_PASSWORD = os.getenv("DROPI_PASSWORD")
-DROPI_CLOUDFRONT = os.getenv("DROPI_CLOUDFRONT", "").rstrip("/")  # Ensure no trailing slash
+DROPI_CLOUDFRONT = os.getenv("DROPI_CLOUDFRONT", "").rstrip("/")
 
 LOGIN_URL = "https://api.dropi.co/api/login"
 PRODUCT_URL = "https://api.dropi.co/api/products/productlist/v1/show/?id={}"
@@ -96,7 +95,6 @@ def augment_product_data(existing_data, fetched_data):
     }
 
 async def main():
-    # Load product IDs from existing JSON
     try:
         with open(PRODUCTS_FILE, "r", encoding="utf-8") as file:
             products_data = json.load(file)
@@ -104,7 +102,7 @@ async def main():
         print(f"❌ Error: {PRODUCTS_FILE} not found.")
         return
 
-    product_ids = list(products_data.keys())  # Extract IDs from keys
+    product_ids = list(products_data.keys())
     print(f"📦 Fetching details for {len(product_ids)} products...")
 
     async with aiohttp.ClientSession() as session:
@@ -115,7 +113,6 @@ async def main():
 
         updated_data = {}
 
-        # Fetch product data one by one, ensuring each request completes before moving to the next
         for product_id in product_ids:
             fetched_data = await fetch_product_data(session, token, product_id)
             if fetched_data:
