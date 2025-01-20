@@ -36,18 +36,17 @@ jobs:
           DROPI_PASSWORD: ${{ secrets.DROPI_PASSWORD }}
           DROPI_CLOUDFRONT: ${{ secrets.DROPI_CLOUDFRONT }}
 
-      - name: Check for changes in products.json
-        run: |
-          git status
-          git diff --exit-code data/products.json || echo "Changes detected in products.json"
+      - name: Disable Jekyll
+        run: touch .nojekyll
 
       - name: Commit and push updated JSON
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/products.json
+          git add data/products.json .nojekyll
           git commit -m "[chore]: Update product data [skip ci]" || echo "No changes to commit"
           git push
+
   deploy:
     needs: fetch-products
     environment:
@@ -57,21 +56,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Verify branch is correct for GitHub Pages
-        run: echo "Deploying to ${GITHUB_REF}"
-
-      - name: Set up Git user identity
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Touch index.html to force deployment
-        run: |
-          touch index.html
-          git add index.html
-          git commit -m "Force re-deploy"
-          git push
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
