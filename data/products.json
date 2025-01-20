@@ -1,9 +1,7 @@
 {
   "48110": {
     "price": 1000,
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "id": 48110,
     "stock": 147,
     "sku": "369",
@@ -46,9 +44,7 @@
   },
   "1366156": {
     "price": 1000,
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "id": 1366156,
     "stock": 200,
     "sku": "ES0475",
@@ -79,9 +75,7 @@
   },
   "979916": {
     "price": 1000,
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "id": 979916,
     "stock": null,
     "sku": "BT36",
@@ -153,9 +147,7 @@
   },
   "639229": {
     "price": 1000,
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "id": 639229,
     "stock": 97,
     "sku": "CAMARA PTZ",
@@ -180,9 +172,7 @@
   },
   "1590849": {
     "price": 1000,
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "id": 1590849,
     "stock": 50,
     "sku": "USB",
@@ -225,9 +215,7 @@
   },
   "1055265": {
     "price": 1000,
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "id": 1055265,
     "stock": null,
     "sku": "A007",
@@ -311,9 +299,7 @@
   },
   "785281": {
     "price": 1000,
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "id": 785281,
     "stock": 492,
     "sku": "bdg",
@@ -350,10 +336,7 @@
   },
   "1174056": {
     "price": 1000,
-    "categories": [
-      "smart_home",
-      "top_seller"
-    ],
+    "categories": ["smart_home", "top_seller"],
     "id": 1174056,
     "stock": 82,
     "sku": "Alexa",
@@ -390,9 +373,7 @@
   },
   "172525": {
     "price": 1000,
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "id": 172525,
     "stock": 25,
     "sku": "Escurridor Retráctil De Verduras",
@@ -423,9 +404,7 @@
   },
   "1057956": {
     "price": 1000,
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "id": 1057956,
     "stock": 1999,
     "sku": "132",
@@ -444,9 +423,7 @@
   },
   "599258": {
     "price": 1000,
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "id": 599258,
     "stock": 83,
     "sku": "189009",
@@ -483,10 +460,7 @@
   },
   "458554": {
     "price": 1000,
-    "categories": [
-      "kitchen",
-      "top_seller"
-    ],
+    "categories": ["kitchen", "top_seller"],
     "id": 458554,
     "stock": null,
     "sku": null,
@@ -564,9 +538,7 @@
   },
   "1624938": {
     "price": 1000,
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "id": 1624938,
     "stock": 298,
     "sku": "Ventilador Techo Lámpara Led Aromaterapia + Control Remoto",
@@ -609,9 +581,7 @@
   },
   "656971": {
     "price": 1000,
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "id": 656971,
     "stock": 398,
     "sku": "0",
@@ -636,9 +606,7 @@
   },
   "1573709": {
     "price": 1000,
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "id": 1573709,
     "stock": 206,
     "sku": "LMAP P80",
@@ -699,9 +667,7 @@
   },
   "970488": {
     "price": 1000,
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "id": 970488,
     "stock": null,
     "sku": "0545",
@@ -767,10 +733,7 @@
   },
   "751123": {
     "price": 1000,
-    "categories": [
-      "illumination",
-      "top_seller"
-    ],
+    "categories": ["illumination", "top_seller"],
     "id": 751123,
     "stock": 281,
     "sku": "BOB-001",
@@ -801,9 +764,7 @@
   },
   "752292": {
     "price": 1000,
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "id": 752292,
     "stock": 115,
     "sku": "MA24068",
@@ -834,9 +795,7 @@
   },
   "1048159": {
     "price": 1000,
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "id": 1048159,
     "stock": 132,
     "sku": "150",
@@ -873,9 +832,7 @@
   },
   "669068": {
     "price": 1000,
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "id": 669068,
     "stock": 756,
     "sku": "34224421",
@@ -906,9 +863,7 @@
   },
   "85099": {
     "price": 1000,
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "id": 85099,
     "stock": 995,
     "sku": "MS0202",
@@ -951,10 +906,7 @@
   },
   "353320": {
     "price": 1000,
-    "categories": [
-      "wellness",
-      "top_seller"
-    ],
+    "categories": ["wellness", "top_seller"],
     "id": 353320,
     "stock": 100,
     "sku": "Calentador-10",
@@ -985,9 +937,7 @@
   },
   "72854": {
     "price": 1000,
-    "categories": [
-      "cleaning"
-    ],
+    "categories": ["cleaning"],
     "id": 72854,
     "stock": 10,
     "sku": "LIMPIADOR DE VIDRIO",
@@ -1012,9 +962,7 @@
   },
   "1236155": {
     "price": 1000,
-    "categories": [
-      "cleaning"
-    ],
+    "categories": ["cleaning"],
     "id": 1236155,
     "stock": 819,
     "sku": "FILTRODUCHA",
@@ -1147,9 +1095,7 @@
   },
   "924711": {
     "price": 1000,
-    "categories": [
-      "cleaning"
-    ],
+    "categories": ["cleaning"],
     "id": 924711,
     "stock": 3,
     "sku": "7890586851600",
@@ -1174,10 +1120,7 @@
   },
   "1607438": {
     "price": 1000,
-    "categories": [
-      "cleaning",
-      "top_seller"
-    ],
+    "categories": ["cleaning", "top_seller"],
     "id": 1607438,
     "stock": 110,
     "sku": "Caneca inteligente con sensor 15 LT (2)",
@@ -1214,9 +1157,7 @@
   },
   "669206": {
     "price": 1000,
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "id": 669206,
     "stock": 97,
     "sku": "DF6",
@@ -1247,9 +1188,7 @@
   },
   "664479": {
     "price": 1000,
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "id": 664479,
     "stock": 240,
     "sku": "Distri - 218",
@@ -1274,9 +1213,7 @@
   },
   "1618139": {
     "price": 1000,
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "id": 1618139,
     "stock": 120,
     "sku": "789",
@@ -1313,9 +1250,7 @@
   },
   "1166111": {
     "price": 1000,
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "id": 1166111,
     "stock": 100,
     "sku": "ff44",
@@ -1346,9 +1281,7 @@
   },
   "1421771": {
     "price": 1000,
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "id": 1421771,
     "stock": 192,
     "sku": "JVR8XIM42O",
@@ -1403,9 +1336,7 @@
   },
   "786278": {
     "price": 1000,
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "id": 786278,
     "stock": 50,
     "sku": "Mkb112",
@@ -1442,10 +1373,7 @@
   },
   "92078": {
     "price": 1000,
-    "categories": [
-      "tools",
-      "top_seller"
-    ],
+    "categories": ["tools", "top_seller"],
     "id": 92078,
     "stock": 147,
     "sku": "BASCULA-10",
@@ -1470,9 +1398,7 @@
   },
   "1484215": {
     "price": 1000,
-    "categories": [
-      "top_seller"
-    ],
+    "categories": ["top_seller"],
     "id": 1484215,
     "stock": 250,
     "sku": "666-802A",
@@ -1488,5 +1414,9 @@
         "variation_id": null
       }
     ]
+  },
+  "1455646": {
+    "price": 2000,
+    "categories": ["top_seller", "organization"]
   }
 }
