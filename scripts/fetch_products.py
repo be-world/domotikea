@@ -33,12 +33,12 @@ def get_google_sheets_data():
     products = {}
 
     for row in values:
-        if len(row) < 4:
+        if len(row) < 9:
             continue
-        name, product_id, price, categories = row[0], row[1], row[2], row[3]
+        name, product_id, price, categories = row[3], row[4], row[6], row[8]
         products[product_id] = {
             "name": name, 
-            "price": price,
+            "price": price.strip(),
             "categories": categories.split(",")
         }
     
@@ -105,13 +105,17 @@ async def main():
                             ],
                             "id": variation.get("id", ""),
                             "stock": variation.get("stock", "")
-                        } for variation in fetched_data.get("variations", [])
+                        } for variation in fetched_data.get("attribute_values", [])
                     ],
                     "description": fetched_data.get("description", ""),
                     "active": fetched_data.get("active", ""),
                     "gallery": [
-                        {"url": f"{APP_CLOUDFRONT}/{img.get('url', '')}"}
-                        for img in fetched_data.get("gallery", [])
+                        {
+                            "id": img.get("id", ""),
+                            "url": f"{APP_CLOUDFRONT}/{img.get('url', '')}" if img.get("url") else "",
+                            "urlS3": f"{APP_CLOUDFRONT}/{img.get('urlS3', '')}" if img.get("urlS3") else "",
+                            "variation_id": img.get("variation_id", "")
+                        } for img in fetched_data.get("gallery", [])
                     ]
                 }
 
