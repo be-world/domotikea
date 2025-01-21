@@ -20,8 +20,15 @@ PRODUCTS_FILE = "data/products.json"
 
 def get_google_sheets_data():
     """Fetches product IDs, names, and prices from Google Sheets."""
+    # Retrieve the G_KEY secret
     g_key_json = os.getenv("G_KEY")
-    creds = Credentials.from_service_account_info(json.loads(g_key_json))
+    
+    # Check if the G_KEY environment variable is loaded correctly
+    if not g_key_json:
+        raise ValueError("G_KEY is missing or not set correctly in GitHub secrets.")
+    
+    # Load the JSON string into a Python dictionary
+    creds = Credentials.from_service_account_info(json.loads(g_key_json))  # Deserialize JSON correctly
     service = build("sheets", "v4", credentials=creds)
     sheet = service.spreadsheets().values().get(spreadsheetId=GOOGLE_SHEET_ID, range=RANGE).execute()
     
@@ -62,7 +69,7 @@ async def fetch_product_data(session, token, product_id):
     headers = {"X-Authorization": f"Bearer {token}"}
     try:
         async with session.get(PRODUCT_URL.format(product_id), headers=headers) as response:
-            return await response.json() if response.status == 200 else None
+            return await response.json().get("objects", {}) if response.status == 200 else None
     except Exception as e:
         print(f"❌ Error fetching product {product_id}: {e}")
         return None
