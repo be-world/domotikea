@@ -20,15 +20,12 @@ PRODUCTS_FILE = "data/products.json"
 
 def get_google_sheets_data():
     """Fetches product IDs, names, and prices from Google Sheets."""
-    # Retrieve the G_KEY secret
     g_key_json = os.getenv("G_KEY")
     
-    # Check if the G_KEY environment variable is loaded correctly
     if not g_key_json:
         raise ValueError("G_KEY is missing or not set correctly in GitHub secrets.")
     
-    # Load the JSON string into a Python dictionary
-    creds = Credentials.from_service_account_info(json.loads(g_key_json))  # Deserialize JSON correctly
+    creds = Credentials.from_service_account_info(json.loads(g_key_json))
     service = build("sheets", "v4", credentials=creds)
     sheet = service.spreadsheets().values().get(spreadsheetId=GOOGLE_SHEET_ID, range=RANGE).execute()
     
@@ -69,7 +66,11 @@ async def fetch_product_data(session, token, product_id):
     headers = {"X-Authorization": f"Bearer {token}"}
     try:
         async with session.get(PRODUCT_URL.format(product_id), headers=headers) as response:
-            return await response.json().get("objects", {}) if response.status == 200 else None
+            if response.status == 200:
+                data = await response.json()
+                return data.get("objects", {}) 
+            else:
+                return None
     except Exception as e:
         print(f"❌ Error fetching product {product_id}: {e}")
         return None
@@ -97,10 +98,10 @@ async def main():
                         {
                             "attribute_values": [
                                 {
-                                    "attribute_name": fetched_data.get("attribute_name", ""),
-                                    "value": fetched_data.get("value", ""),
-                                    "id": fetched_data.get("id", "")
-                                } for fetched_data in variation.get("attribute_values", [])
+                                    "attribute_name": variation.get("attribute_name", ""),
+                                    "value": variation.get("value", ""),
+                                    "id": variation.get("id", "")
+                                } for variation in fetched_data.get("variations", [])
                             ],
                             "id": variation.get("id", ""),
                             "stock": variation.get("stock", "")
