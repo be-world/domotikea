@@ -33,19 +33,17 @@ def get_google_sheets_data():
     products = {}
 
     for row in values:
-        print(f"Row data: {row}")
         if len([s for s in row if s.strip() != '']) < 4:
             continue
         name = row[0]
         product_id = row[1]
         price = row[3]
-        categories = row[5]
-        print(f"Product ID: {product_id}, Name: {name}, Price: {price}, Categories: {categories}")
+        categories_raw = row[5]
 
         products[product_id] = {
             "name": name, 
             "price": price.strip(),
-            "categories": categories.split(",")
+            "categories": [item.strip() for item in categories_raw.split(",")]
         }
     
     return products
@@ -104,14 +102,14 @@ async def main():
                         {
                             "attribute_values": [
                                 {
-                                    "attribute_name": variation.get("attribute_name", ""),
-                                    "value": variation.get("value", ""),
-                                    "id": variation.get("id", "")
-                                } for variation in fetched_data.get("variations", [])
+                                    "attribute_name": attr.get("attribute_name", ""),
+                                    "value": attr.get("value", ""),
+                                    "id": attr.get("id", "")
+                                } for attr in fetched_data.get("variations", [])
                             ],
                             "id": variation.get("id", ""),
                             "stock": variation.get("stock", "")
-                        } for variation in fetched_data.get("attribute_values", [])
+                        } for variation in fetched_data.get("variations", [])
                     ],
                     "description": fetched_data.get("description", ""),
                     "active": fetched_data.get("active", ""),
