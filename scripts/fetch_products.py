@@ -33,9 +33,15 @@ def get_google_sheets_data():
     products = {}
 
     for row in values:
+        print(f"Row data: {row}")  # Debugging line
         if len(row) < 9:
             continue
-        name, product_id, price, categories = row[3], row[4], row[6], row[8]
+        name = row[3]
+        product_id = row[4]
+        price = row[6]
+        categories = row[8]
+        print(f"Product ID: {product_id}, Name: {name}, Price: {price}, Categories: {categories}")
+
         products[product_id] = {
             "name": name, 
             "price": price.strip(),
