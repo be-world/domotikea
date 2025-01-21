@@ -1822,7 +1822,7 @@
   },
   "260940": {
     "name": "Estuche protector para Nintendo Switch",
-    "price": "$45.000",
+    "price": "$46.000",
     "categories": [
       "gifts"
     ],
@@ -1912,6 +1912,26 @@
         "id": 284332,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/260940/Diseño sin título (81).jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/260940/17018990581701899058Diseño sin título (81).jpg",
+        "variation_id": null
+      }
+    ]
+  },
+  "845468": {
+    "name": "Religioso",
+    "price": "$126.000",
+    "categories": [
+      "gifts"
+    ],
+    "stock": 1000,
+    "sku": "RELIGIOSO W 027",
+    "variations": [],
+    "description": "¡CUADRO 5 PIEZAS!\n\n✅ Pago contra entrega. No se te cobra hasta que el cuadro esté en la puerta de tu casa.\n\n✅ Impresión digital de alta calidad.\n\n✅ Se limpia fácil.\n\n✅ Empacado en caja diseñada especialmente para garantizar el buen estado del producto.\n\nHermoso cuadro con un diseño exclusivo para decorar tu hogar y darle el toque especial que estás buscando.\n\nMATERIALES\n\n📏 Medidas: 114 X 78 cm.\n\n✅ 5 Retablos de madera MDF de 9mm de espesor.\n\n➡️ 1 de 78X24cm\n\n➡️ 2 de 60X24cm\n\n➡️ 2 de 45X18 cm\n\n✅ Impresión de alta definición en vinilo adhesivo.\n\n✅ Caimán para cada retablo que facilita su instalación.\n\nLa garantía tiene lugar en los primeros 10 días calendario después de que tu producto ha llegado a su respectivo comprador, una vez pasado los 11 días calendario la garantía es pérdida en su totalidad.\nSi tu producto llegó en mal estado como por ejemplo: Roto, dañado, mojado, rasgado, cortado,torcido, en una medida diferente a la gestionada, una referencia diferente a la comprada, puedes solicitar una garantía, en este caso aplicaría reemplazar el producto afectado por uno nuevo.",
+    "active": true,
+    "gallery": [
+      {
+        "id": 819070,
+        "url": "",
+        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/845468/RELIGIOSO-W-027-jpg.jpg",
         "variation_id": null
       }
     ]
