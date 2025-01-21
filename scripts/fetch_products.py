@@ -36,10 +36,10 @@ def get_google_sheets_data():
         print(f"Row data: {row}")
         if len([s for s in row if s.strip() != '']) < 4:
             continue
-        name = row[3]
-        product_id = row[4]
-        price = row[6]
-        categories = row[8]
+        name = row[0]
+        product_id = row[1]
+        price = row[3]
+        categories = row[5]
         print(f"Product ID: {product_id}, Name: {name}, Price: {price}, Categories: {categories}")
 
         products[product_id] = {
