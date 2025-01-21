@@ -20,7 +20,8 @@ PRODUCTS_FILE = "data/products.json"
 
 def get_google_sheets_data():
     """Fetches product IDs, names, and prices from Google Sheets."""
-    creds = Credentials.from_service_account_info(json.loads(os.getenv("G_KEY")))
+    g_key_json = os.getenv("G_KEY")
+    creds = Credentials.from_service_account_info(json.loads(g_key_json))
     service = build("sheets", "v4", credentials=creds)
     sheet = service.spreadsheets().values().get(spreadsheetId=GOOGLE_SHEET_ID, range=RANGE).execute()
     
