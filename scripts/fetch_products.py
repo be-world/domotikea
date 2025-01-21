@@ -33,8 +33,8 @@ def get_google_sheets_data():
     products = {}
 
     for row in values:
-        print(f"Row data: {row}")  # Debugging line
-        if len(row) < 9:
+        print(f"Row data: {row}")
+        if len([s for s in row if s.strip() != '']) < 4:
             continue
         name = row[3]
         product_id = row[4]
