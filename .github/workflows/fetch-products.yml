@@ -10,7 +10,7 @@ concurrency:
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -27,14 +27,19 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests aiohttp
+        run: pip install requests aiohttp google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
       - name: Fetch product data
         run: python scripts/fetch_products.py
         env:
-          DROPI_EMAIL: ${{ secrets.DROPI_EMAIL }}
-          DROPI_PASSWORD: ${{ secrets.DROPI_PASSWORD }}
-          DROPI_CLOUDFRONT: ${{ secrets.DROPI_CLOUDFRONT }}
+          APP_EMAIL: ${{ secrets.APP_EMAIL }}
+          APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
+          APP_CLOUDFRONT: ${{ secrets.APP_CLOUDFRONT }}
+          APP_IP: ${{ secrets.APP_IP }}
+          LOGIN_API_URL: ${{ secrets.LOGIN_API_URL }}
+          PRODUCT_API_URL: ${{ secrets.PRODUCT_API_URL }}
+          G_KEY: ${{ secrets.G_KEY }}
+          G_SHEET_ID: ${{ secrets.G_SHEET_ID }}
 
       - name: Disable Jekyll
         run: touch .nojekyll
