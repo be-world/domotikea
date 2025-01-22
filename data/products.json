@@ -5,6 +5,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 451256,
     "stock": 262,
     "sku": "0",
     "variations": [],
@@ -47,6 +48,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 151020,
     "stock": 125,
     "sku": "CAMARA_SEGURIDAD_WIFI_ROBOTICA_3_ANTENAS_Q5X",
     "variations": [],
@@ -110,6 +112,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 979916,
     "stock": null,
     "sku": "BT36",
     "variations": [
@@ -199,6 +202,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 1165994,
     "stock": 180,
     "sku": "Distri - 304",
     "variations": [],
@@ -234,6 +238,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 1590849,
     "stock": 50,
     "sku": "USB",
     "variations": [],
@@ -283,6 +288,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 1055265,
     "stock": null,
     "sku": "A007",
     "variations": [
@@ -386,6 +392,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 785281,
     "stock": 493,
     "sku": "bdg",
     "variations": [],
@@ -428,6 +435,7 @@
     "categories": [
       "smart_home"
     ],
+    "id": 1174056,
     "stock": 82,
     "sku": "Alexa",
     "variations": [],
@@ -470,6 +478,7 @@
     "categories": [
       "kitchen"
     ],
+    "id": 625108,
     "stock": 210,
     "sku": "REM",
     "variations": [],
@@ -512,6 +521,7 @@
     "categories": [
       "kitchen"
     ],
+    "id": 1057956,
     "stock": 1999,
     "sku": "132",
     "variations": [],
@@ -533,6 +543,7 @@
     "categories": [
       "kitchen"
     ],
+    "id": 143976,
     "stock": 119,
     "sku": "NBP",
     "variations": [],
@@ -568,6 +579,7 @@
     "categories": [
       "kitchen"
     ],
+    "id": 458554,
     "stock": null,
     "sku": null,
     "variations": [
@@ -664,6 +676,7 @@
     "categories": [
       "kitchen"
     ],
+    "id": 259477,
     "stock": null,
     "sku": null,
     "variations": [
@@ -760,6 +773,7 @@
     "categories": [
       "kitchen"
     ],
+    "id": 1447397,
     "stock": null,
     "sku": "1607",
     "variations": [
@@ -850,6 +864,7 @@
       "kitchen",
       "cleaning"
     ],
+    "id": 1116483,
     "stock": null,
     "sku": "1861",
     "variations": [
@@ -925,6 +940,7 @@
     "categories": [
       "illumination"
     ],
+    "id": 1624938,
     "stock": 298,
     "sku": "Ventilador Techo Lámpara Led Aromaterapia + Control Remoto",
     "variations": [],
@@ -974,6 +990,7 @@
     "categories": [
       "illumination"
     ],
+    "id": 656971,
     "stock": 398,
     "sku": "0",
     "variations": [],
@@ -1002,6 +1019,7 @@
     "categories": [
       "illumination"
     ],
+    "id": 1573709,
     "stock": 201,
     "sku": "LMAP P80",
     "variations": [],
@@ -1072,6 +1090,7 @@
     "categories": [
       "illumination"
     ],
+    "id": 970488,
     "stock": null,
     "sku": "0545",
     "variations": [
@@ -1154,6 +1173,7 @@
     "categories": [
       "illumination"
     ],
+    "id": 751123,
     "stock": 281,
     "sku": "BOB-001",
     "variations": [],
@@ -1189,6 +1209,7 @@
     "categories": [
       "wellness"
     ],
+    "id": 752292,
     "stock": 115,
     "sku": "MA24068",
     "variations": [],
@@ -1224,6 +1245,7 @@
     "categories": [
       "wellness"
     ],
+    "id": 1048159,
     "stock": 132,
     "sku": "150",
     "variations": [],
@@ -1266,6 +1288,7 @@
     "categories": [
       "wellness"
     ],
+    "id": 50039,
     "stock": null,
     "sku": null,
     "variations": [
@@ -1355,6 +1378,7 @@
     "categories": [
       "wellness"
     ],
+    "id": 85099,
     "stock": 996,
     "sku": "MS0202",
     "variations": [],
@@ -1404,6 +1428,7 @@
     "categories": [
       "wellness"
     ],
+    "id": 353320,
     "stock": 100,
     "sku": "Calentador-10",
     "variations": [],
@@ -1439,6 +1464,7 @@
     "categories": [
       "wellness"
     ],
+    "id": 816473,
     "stock": 123,
     "sku": "ha",
     "variations": [],
@@ -1460,6 +1486,7 @@
     "categories": [
       "wellness"
     ],
+    "id": 1370198,
     "stock": 411,
     "sku": "Zoky zo",
     "variations": [],
@@ -1509,6 +1536,7 @@
     "categories": [
       "cleaning"
     ],
+    "id": 860745,
     "stock": null,
     "sku": null,
     "variations": [
@@ -1622,6 +1650,7 @@
     "categories": [
       "cleaning"
     ],
+    "id": 1236155,
     "stock": 816,
     "sku": "FILTRODUCHA",
     "variations": [],
@@ -1776,6 +1805,7 @@
     "categories": [
       "cleaning"
     ],
+    "id": 1634697,
     "stock": 100,
     "sku": "DSJ-1",
     "variations": [],
@@ -1797,6 +1827,7 @@
     "categories": [
       "cleaning"
     ],
+    "id": 1607438,
     "stock": 110,
     "sku": "Caneca inteligente con sensor 15 LT (2)",
     "variations": [],
@@ -1839,6 +1870,7 @@
     "categories": [
       "house_tools"
     ],
+    "id": 669206,
     "stock": 98,
     "sku": "DF6",
     "variations": [],
@@ -1874,6 +1906,7 @@
     "categories": [
       "house_tools"
     ],
+    "id": 1166111,
     "stock": 100,
     "sku": "ff44",
     "variations": [],
@@ -1909,6 +1942,7 @@
     "categories": [
       "house_tools"
     ],
+    "id": 1421771,
     "stock": 192,
     "sku": "JVR8XIM42O",
     "variations": [],
@@ -1972,6 +2006,7 @@
     "categories": [
       "gifts"
     ],
+    "id": 1484215,
     "stock": 250,
     "sku": "666-802A",
     "variations": [],
@@ -1993,6 +2028,7 @@
     "categories": [
       "gifts"
     ],
+    "id": 260940,
     "stock": null,
     "sku": null,
     "variations": [
