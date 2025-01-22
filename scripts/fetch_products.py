@@ -96,6 +96,7 @@ async def main():
             if fetched_data:
                 updated_data[product_id] = {
                     **details,
+                    "id": fetched_data.get("id", ""),
                     "stock": fetched_data.get("stock", ""),
                     "sku": fetched_data.get("sku", ""),
                     "variations": [
