@@ -2,7 +2,9 @@
   "451256": {
     "name": "Cámara bombilla ",
     "price": "$60.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": 262,
     "sku": "0",
     "variations": [],
@@ -13,32 +15,38 @@
         "id": 469865,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/451256/1697825204CAMARA 360.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 469866,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/451256/1697825204ES CAMARA BOMBILLO.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 469867,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/451256/1697825204FACCIL DE ISNTLAS CB.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 469868,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/451256/1697825204360 BOMBILLO}.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "151020": {
     "name": "Cámara de seguridad 3 antenas",
     "price": "$75.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": 125,
     "sku": "CAMARA_SEGURIDAD_WIFI_ROBOTICA_3_ANTENAS_Q5X",
     "variations": [],
@@ -49,51 +57,59 @@
         "id": 192127,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/sin-titulo-1650563157-colombia-de-compras-1106372823.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090751702309075sin-titulo-1650563157-colombia-de-compras-1106372823.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 192126,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/sin-titulo-1650563157-colombia-de-compras-941324669.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090761702309076sin-titulo-1650563157-colombia-de-compras-941324669.jpg",
         "variation_id": null,
-        "main": true
+        "main": false
       },
       {
         "id": 192125,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/sin-titulo-1650563157-colombia-de-compras-714469133.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090761702309076sin-titulo-1650563157-colombia-de-compras-714469133.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 192124,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/sin-titulo-1650563157-colombia-de-compras-126935481.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090761702309076sin-titulo-1650563157-colombia-de-compras-126935481.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 192123,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/Captura de pantalla 2022-11-11 152509.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090761702309076Captura de pantalla 2022-11-11 152509.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 192122,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/Captura de pantalla 2022-11-11 152414.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090761702309076Captura de pantalla 2022-11-11 152414.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 192121,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/sin-titulo-1650563157-colombia-de-compras-1405802621.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090761702309076sin-titulo-1650563157-colombia-de-compras-1405802621.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "979916": {
     "name": "Robot aspiradora",
     "price": "$80.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": null,
     "sku": "BT36",
     "variations": [
@@ -137,44 +153,52 @@
         "id": 1373289,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1736275553H827113ea08fb4b3a9ced4cc81e2d08b6p.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1373288,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1736275553Hb92996c735c6417ca0fd04634b926030D.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 966087,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 4_11zon.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 966088,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 1_11zon.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 966089,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 3_11zon.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 966090,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/979916/1721110077ROBOT ASPIRADORA BT36 2_11zon.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1165994": {
     "name": "Cámara de exterior",
     "price": "$100.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": 180,
     "sku": "Distri - 304",
     "variations": [],
@@ -185,26 +209,31 @@
         "id": 1106249,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1165994/1725562447WhatsApp Image 2024-09-05 at 1.51.06 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1106250,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1165994/1725562447WhatsApp Image 2024-09-05 at 1.53.03 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1106251,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1165994/1725562447WhatsApp Image 2024-09-05 at 1.52.19 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1590849": {
     "name": "Toma corriente inteligente",
     "price": "$63.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": 50,
     "sku": "USB",
     "variations": [],
@@ -215,38 +244,45 @@
         "id": 1354606,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_937841-MCO75019920390_032024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1354605,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_730897-MCO75019920396_032024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1354604,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_928313-MCO75020187774_032024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1354603,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_876309-MCO75020187750_032024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1354602,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1590849/1734377167D_NQ_NP_2X_966210-MCO75020237576_032024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "1055265": {
     "name": "Robot de limpieza mopeadora",
     "price": "$90.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": null,
     "sku": "A007",
     "variations": [
@@ -264,7 +300,7 @@
           }
         ],
         "id": 796228,
-        "stock": 90
+        "stock": 89
       },
       {
         "attribute_values": [
@@ -290,56 +326,66 @@
         "id": 1022766,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_686893-CBT76520059582_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1022767,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_635684-CBT76520059596_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1022768,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_648969-CBT76520059590_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1022769,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_661875-CBT76520059570_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1022770,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_910443-CBT76520059574_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1022771,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_808162-CBT76520059594_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1022772,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139237D_NQ_NP_2X_778385-CBT76520059576_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1022773,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1055265/1723139238giphy (17).gif",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "785281": {
     "name": "Timbre inteligente",
     "price": "$80.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": 493,
     "sku": "bdg",
     "variations": [],
@@ -350,32 +396,38 @@
         "id": 761449,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 164810 bbb.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 761450,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 164810.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 761451,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 165659.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 761452,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/785281/1713391046Captura de pantalla 2024-04-17 165358.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1174056": {
     "name": "Alexa Eco Pop",
     "price": "$180.000",
-    "categories": ["smart_home"],
+    "categories": [
+      "smart_home"
+    ],
     "stock": 82,
     "sku": "Alexa",
     "variations": [],
@@ -386,32 +438,38 @@
         "id": 1112761,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806037WhatsApp Image 2024-09-08 at 9.14.43 AM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1112762,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806038WhatsApp Image 2024-09-08 at 9.14.43 AM (3).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1112763,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806038WhatsApp Image 2024-09-08 at 9.14.43 AM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1112764,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1174056/1725806038WhatsApp Image 2024-09-08 at 9.14.43 AM (2).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "625108": {
     "name": "Escurridor retráctil",
     "price": "$45.000",
-    "categories": ["kitchen"],
+    "categories": [
+      "kitchen"
+    ],
     "stock": 210,
     "sku": "REM",
     "variations": [],
@@ -422,32 +480,38 @@
         "id": 607057,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/625108/1706644428WhatsApp Image 2024-01-17 at 1.06.30 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 607058,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/625108/1706644428WhatsApp Image 2024-01-17 at 1.06.30 PM (2).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 607059,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/625108/1706644428WhatsApp Image 2024-01-17 at 1.06.31 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 607060,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/625108/1706644428WhatsApp Image 2024-01-17 at 1.06.30 PM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1057956": {
     "name": "Cuchillo tijera",
     "price": "$50.000",
-    "categories": ["kitchen"],
+    "categories": [
+      "kitchen"
+    ],
     "stock": 1999,
     "sku": "132",
     "variations": [],
@@ -458,14 +522,17 @@
         "id": 1024406,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1057956/1723158145GIF CLEVER CUTER.gif",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "143976": {
     "name": "Nutribullet pro",
     "price": "$320.000",
-    "categories": ["kitchen"],
+    "categories": [
+      "kitchen"
+    ],
     "stock": 119,
     "sku": "NBP",
     "variations": [],
@@ -476,26 +543,31 @@
         "id": 185185,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/143976/WhatsApp Image 2023-01-26 at 12.39.58 PM.jpeg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/143976/17023220001702322000WhatsApp Image 2023-01-26 at 12.39.58 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 185184,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/143976/Captura de pantalla 2023-01-26 a la(s) 1.47.41 p.m..png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/143976/17023220001702322000Captura de pantalla 2023-01-26 a la(s) 1.47.41 p.m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 185183,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/143976/Captura de pantalla 2023-01-26 a la(s) 1.46.51 p.m..png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/143976/17023220001702322000Captura de pantalla 2023-01-26 a la(s) 1.46.51 p.m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "458554": {
     "name": "Gallina hervidora de huevos",
     "price": "$40.000",
-    "categories": ["kitchen"],
+    "categories": [
+      "kitchen"
+    ],
     "stock": null,
     "sku": null,
     "variations": [
@@ -513,7 +585,7 @@
           }
         ],
         "id": 311171,
-        "stock": 150
+        "stock": 148
       },
       {
         "attribute_values": [
@@ -539,50 +611,59 @@
         "id": 475719,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina E.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 475720,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 8.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 475721,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 4.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 475722,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina A.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 475723,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 6.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 475724,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina B.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 475725,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/458554/1698183501Hervidor de Huevos Gallina Blanco 5.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "259477": {
     "name": "Dispensador automático de agua de botellón",
     "price": "$39.000",
-    "categories": ["kitchen"],
+    "categories": [
+      "kitchen"
+    ],
     "stock": null,
     "sku": null,
     "variations": [
@@ -626,50 +707,59 @@
         "id": 1108752,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/259477/1725640930Dispensador De Agua Recargable Para Botellon indicador Carga Blanco 3.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1108753,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/259477/1725640931Dispensador De Agua Recargable Para Botellon indicador Carga Negro 6.JPG",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1108755,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/259477/1725640932Dispensador De Agua Recargable Para Botellon indicador Carga 1.JPG",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1108756,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/259477/1725640932Dispensador De Agua Recargable Para Botellon indicador Carga Negro 5.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1108757,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/259477/1725640933Dispensador De Agua Recargable Para Botellon indicador Carga Blanco 7.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1108758,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/259477/1725640937Dispensador De Agua Recargable Para Botellon indicador Carga Negro 4.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1108759,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/259477/1725640938Dispensador De Agua Recargable Para Botellon indicador Carga Blanco 5.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1447397": {
     "name": "Dispensador de agua eléctrico para mesa",
     "price": "$45.000",
-    "categories": ["kitchen"],
+    "categories": [
+      "kitchen"
+    ],
     "stock": null,
     "sku": "1607",
     "variations": [
@@ -713,44 +803,53 @@
         "id": 1269724,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1447397/17310015411716914738D_NQ_NP_2X_678586-CBT76263930814_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1269723,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1447397/17310015411716914737D_NQ_NP_2X_900676-CBT74592224389_022024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1269722,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1447397/17310015411716914737D_NQ_NP_2X_624194-CBT76263930820_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1269721,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1447397/17310015411716914737D_NQ_NP_2X_826028-CBT76263930822_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1269720,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1447397/17310015411716914738D_NQ_NP_2X_814880-CBT76263930826_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1269719,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1447397/17310015411716914737D_NQ_NP_2X_842348-CBT76263930828_052024-F.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "1116483": {
     "name": "Dispensador de jabón de loza",
     "price": "$35.000",
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "stock": null,
     "sku": "1861",
     "variations": [
@@ -794,32 +893,38 @@
         "id": 1074405,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1116483/17246833209131c65d-9ecd-498d-9a1e-0ea1a5b3df80.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1074406,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1116483/17246833207764563b-1ca4-41a4-9344-f7189f08cc3f.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1074407,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1116483/1724683320b3393bd5-21a4-4386-bc88-5b083e22108c.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1074408,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1116483/1724683320Captura de pantalla 2024-08-26 093245.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "1624938": {
     "name": "Bombillo con ventilador",
     "price": "$98.000",
-    "categories": ["illumination"],
+    "categories": [
+      "illumination"
+    ],
     "stock": 298,
     "sku": "Ventilador Techo Lámpara Led Aromaterapia + Control Remoto",
     "variations": [],
@@ -830,38 +935,45 @@
         "id": 1385076,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.42 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1385075,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.42 PM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1385074,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.43 PM (2).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1385073,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.43 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1385072,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1624938/1736875692WhatsApp Image 2025-01-14 at 12.25.43 PM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "656971": {
-    "name": "Lámpara hexagonal",
+    "name": "Lampara hexagonal",
     "price": "$40.000",
-    "categories": ["illumination"],
+    "categories": [
+      "illumination"
+    ],
     "stock": 398,
     "sku": "0",
     "variations": [],
@@ -872,21 +984,25 @@
         "id": 639764,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/656971/17081001321700779864L-mpara-hexagonal-Quantum-LED-RGB-con-Sensor-t-ctil-luz-nocturna-l-mpara-de-pared.jpg_640x640.jpg_.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 639765,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/656971/17081001321700779864S82c3f774d7bd4905aaf0a0d6a46fa189e.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1573709": {
-    "name": "Lámpara portatil",
+    "name": "Lampara portatil",
     "price": "$60.000",
-    "categories": ["illumination"],
-    "stock": 206,
+    "categories": [
+      "illumination"
+    ],
+    "stock": 201,
     "sku": "LMAP P80",
     "variations": [],
     "description": "<p><strong>Lámpara Inteligente con Sensor de Movimiento</strong></p><p>Descubre la <strong>Lámpara Inteligente</strong> que se adapta a tus necesidades de iluminación en cualquier espacio oscuro. Ideal para usar en <strong>mesitas de noche</strong>, <strong>cajones</strong>, <strong>armarios</strong>, y más. Sin necesidad de recargarla cada vez que la utilices, esta lámpara es perfecta como un regalo de Navidad original y práctico.</p><p><strong>Características Destacadas</strong></p><p><strong>Modo Dual</strong>: Gracias a su <strong>sensor fotosensible</strong> y <strong>perspectiva infrarroja</strong>, la lámpara se enciende automáticamente al detectar movimiento a 13 pies en la oscuridad y se apaga después de 15 segundos sin movimiento. También puedes optar por el <strong>modo de luz constante</strong> con solo presionar un botón.</p><p><strong>Diseño Nostálgico y Simple</strong>: Fabricada en <strong>madera natural</strong> y <strong>acrílico mate</strong>, esta lámpara no solo ilumina, sino que también decora tu hogar con un estilo único y acogedor.</p><p><strong>Carga USB</strong>: Con su batería recargable de <strong>500 mAh</strong>, disfruta de hasta <strong>8 horas</strong> de luz constante y <strong>3-5 meses</strong> en modo sensor, eliminando la necesidad de reemplazar baterías.</p><p><strong>Instalación Flexible</strong>: Sin cables ni perforaciones. Usa una almohadilla de goma 3M para fijarla en cualquier superficie o aprovecha su <strong>imán integrado</strong> para colocarla en refrigeradores o barandillas.<br><br><strong>Rango de detección:</strong> 5-7M delante, 2-3M horizontalmente, dentro de 120 ° horizontalmente.<br><br><strong>Lista de embalaje:</strong><br>1 x luz nocturna<br>1 x base<br>1 x cable de carga USB<br><br><strong>GARANTÍA:</strong></p><p><strong>Orden distinta 10 días</strong></p><p><strong>Orden incompleta 10 días</strong></p><p><strong>Mal funcionamiento 30 días</strong></p><p><strong>Producto roto 10 días</strong></p>",
@@ -896,56 +1012,66 @@
         "id": 1338519,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.29 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1338518,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.28 PM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1338517,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.29 PM (2).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1338516,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.28 PM.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1338515,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242WhatsApp Image 2024-12-06 at 12.47.29 PM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1338514,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242Captura de pantalla 2024-12-06 125029.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1338513,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508242Captura de pantalla 2024-12-06 124959.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1338512,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573709/1733508241Captura de pantalla 2024-12-06 130204.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "970488": {
     "name": "Lampara cubo aurora boreal",
     "price": "$70.000",
-    "categories": ["illumination"],
+    "categories": [
+      "illumination"
+    ],
     "stock": null,
     "sku": "0545",
     "variations": [
@@ -989,38 +1115,45 @@
         "id": 960082,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807088lampara cuadrada colores12.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 960083,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807088lampara cuadrada colores12322.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 960084,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807088lampara cuadrada colores.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 960085,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807089lampara cuadrada colores123.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 960086,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/970488/1720807089lampara cuadrada colores1232.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "751123": {
     "name": "Bombillo inteligente bluetooh",
     "price": "$45.000",
-    "categories": ["illumination"],
+    "categories": [
+      "illumination"
+    ],
     "stock": 281,
     "sku": "BOB-001",
     "variations": [],
@@ -1031,26 +1164,31 @@
         "id": 732014,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/751123/1712284892descarga (22).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 732015,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/751123/1712284892descarga (23).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 732016,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/751123/1712284892descarga (26).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "752292": {
     "name": "Humidificador de lluvia",
     "price": "$99.000",
-    "categories": ["wellness"],
+    "categories": [
+      "wellness"
+    ],
     "stock": 115,
     "sku": "MA24068",
     "variations": [],
@@ -1061,26 +1199,31 @@
         "id": 733177,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/752292/17123396121712336079_3.fw.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 733178,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/752292/17123396121712336079_5.fw.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 733179,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/752292/17123396131712336079_2.fw.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "1048159": {
     "name": "Ventilador enfriador humidificador",
     "price": "$70.000",
-    "categories": ["wellness"],
+    "categories": [
+      "wellness"
+    ],
     "stock": 132,
     "sku": "150",
     "variations": [],
@@ -1091,32 +1234,38 @@
         "id": 1378488,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722967746WhatsApp Image 2024-08-05 at 6.11.36 PM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1378487,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722967746WhatsApp Image 2024-08-05 at 6.11.37 PM (2).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1378486,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722968236313_1722968229258_1722968228525.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1378485,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1048159/17365339421722967746WhatsApp Image 2024-08-05 at 6.11.37 PM (1).jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "50039": {
     "name": "Humidificador redondo madera",
     "price": "$45.000",
-    "categories": ["wellness"],
+    "categories": [
+      "wellness"
+    ],
     "stock": null,
     "sku": null,
     "variations": [
@@ -1160,45 +1309,53 @@
         "id": 44902,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/50039/Mini humidificador redondo-04.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/50039/17030806881703080688Mini humidificador redondo-04.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 44901,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/50039/Mini humidificador redondo-03.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/50039/17030806891703080689Mini humidificador redondo-03.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 44900,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/50039/Mini humidificador redondo-02.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/50039/17030806891703080689Mini humidificador redondo-02.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 44899,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/50039/Mini humidificador redondo-01.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/50039/17030806891703080689Mini humidificador redondo-01.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 657574,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/50039/1708957865uuuliñuiu_Mesa de trabajo 1.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 657577,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/50039/1708957865uuuliño_Mesa de trabajo 1.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "85099": {
     "name": "Parlante para ducha",
     "price": "$30.000",
-    "categories": ["wellness"],
-    "stock": 995,
+    "categories": [
+      "wellness"
+    ],
+    "stock": 996,
     "sku": "MS0202",
     "variations": [],
     "description": "Este parlante resiste el agua de manera directa, indirecta y el vapor, mientras que el alcance de su bluetooth es de 10 metros, para que tus dispositivos musicales estén a salvo del dañino ambiente húmedo del baño. Cuenta con una entrada plug para cargar la batería de litio, que alcanza hasta 1 horas de reproducción de música o de conversación por teléfono, para recibir esas llamadas que no pueden esperar.\n\n-Los botones de control integrados permiten ajustar el volumen, e incluso detener el audio para contestar una llamada entrante. Con los que puedes disfrutar de la verdadera libertad de hablar y de escuchar tu música preferida en cualquier lugar sin las limitaciones de las conexiones con cables! Comodidad sin cables Los parlantes con tecnología inalámbrica Bluetooth simplifican las conversaciones con manos libres utilizando tu celular.\n\nCARACTERISTICAS\n\nEscuche música de manera inalámbrica por comunicación bluetooth.\nBatería recargable.\nSirve para escuchar música y recibir llamadas.\nBluetooth 10 metros de alcance.\nResistente al agua.\nDimensiones: 8x8x3cm",
@@ -1208,38 +1365,45 @@
         "id": 102657,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/H9vnJHYaqAYctVqqdj88oqKAgUPMCsd88CrqHB8d.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645H9vnJHYaqAYctVqqdj88oqKAgUPMCsd88CrqHB8d.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 102656,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/DGp7nAubmEfWJFTN0BOf55ng8magI3tDEDQBaoEq.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645DGp7nAubmEfWJFTN0BOf55ng8magI3tDEDQBaoEq.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 102655,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/knPNEMVS6ZscmC4DRyYe3I9f0SX0pq4wuKDTi5CI.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645knPNEMVS6ZscmC4DRyYe3I9f0SX0pq4wuKDTi5CI.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 102654,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/oH541ikj4NQJz3m50nft9SWoREkXWSIE5IgvJqaT.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645oH541ikj4NQJz3m50nft9SWoREkXWSIE5IgvJqaT.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 102653,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/85099/K1YgI6IwThG0kKZ1P7lG3oaNcwZ0WF1O7g8GLEV3.png",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/85099/17030156451703015645K1YgI6IwThG0kKZ1P7lG3oaNcwZ0WF1O7g8GLEV3.png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "353320": {
     "name": "Calentador de chimenea",
     "price": "$65.000",
-    "categories": ["wellness"],
+    "categories": [
+      "wellness"
+    ],
     "stock": 100,
     "sku": "Calentador-10",
     "variations": [],
@@ -1250,26 +1414,31 @@
         "id": 371921,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/353320/51.PNG",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/353320/1701876330170187633051.PNG",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 371920,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/353320/50.PNG",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/353320/1701876331170187633150.PNG",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 371922,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/353320/52.PNG",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/353320/1701876330170187633052.PNG",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "816473": {
     "name": "Humidificador antigravedad con reloj",
     "price": "$90.000",
-    "categories": ["wellness"],
+    "categories": [
+      "wellness"
+    ],
     "stock": 123,
     "sku": "ha",
     "variations": [],
@@ -1280,14 +1449,17 @@
         "id": 792415,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/816473/1714489704Hcda61141a750482c9bac5c61243f1a443.jpg_960x960_65e05acf-525a-4ede-8470-0485b7c92cfd_720x720.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "1370198": {
     "name": "Proyector de astronauta",
     "price": "$65.000",
-    "categories": ["wellness"],
+    "categories": [
+      "wellness"
+    ],
     "stock": 411,
     "sku": "Zoky zo",
     "variations": [],
@@ -1298,38 +1470,45 @@
         "id": 1225625,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1370198/1729373663AST01.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1225626,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1370198/1729373664IMG-20241019-WA0029.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1225627,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1370198/1729373664IMG-20241019-WA0028.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1225628,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1370198/1729373664IMG-20241019-WA0026.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1225629,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1370198/1729373664IMG-20241019-WA0030.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "860745": {
     "name": "Quitamotas recargable",
     "price": "$46.000",
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "stock": null,
     "sku": null,
     "variations": [
@@ -1404,39 +1583,46 @@
         "id": 831571,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/860745/1715709411430128616_410140364865918_2203015700287614762_n.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 831573,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/860745/1715709411438852557_1107031737076068_6294304348289841107_n.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 831570,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/860745/1715709411438871479_734857432096255_4123177857147204374_n.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 831572,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/860745/1715709411429921578_7295648643805739_7590399141680106784_n.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 831574,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/860745/1715709411430423960_423443983494597_8468844040380084857_n.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1236155": {
     "name": "Filtro de ducha",
     "price": "$66.000",
-    "categories": ["cleaning"],
-    "stock": 819,
+    "categories": [
+      "cleaning"
+    ],
+    "stock": 816,
     "sku": "FILTRODUCHA",
     "variations": [],
     "description": "<p><strong>Datos importantes:&nbsp;</strong></p><ul><li>Cada repuesto dura 6 meses o hasta 10,000 galones de agua.</li><li>Cada producto incluye 1 filtro + 1 filtro de repuesto (2 filtros en total). El filtro adicional viene dentro del mismo paquete, no por aparte.</li></ul><p>&nbsp;</p><h3>Resumen de Ventas para Filtros de Ducha 15 Niveles + Repuesto</h3><h4>Ángulos de Venta</h4><p><strong>Salud y Bienestar</strong>:</p><ul><li>Rejuvenece piel y protege el cabello desde el primer uso.&nbsp;</li><li>Reduce irritaciones, picazón y sequedad en la piel.</li><li>Mejora condiciones como eczema y caspa.</li></ul><p><strong>Calidad del Agua</strong>:</p><ul><li>Elimina cloro, pesticidas, productos farmacéuticos, suciedad y olores.</li><li>Controla la acumulación de escamas.</li></ul><p><strong>Eficiencia Económica</strong>:</p><ul><li>Cada repuesto dura 6 meses o 10,000 galones de agua.</li><li>Costo de operación: inversión inferior a una moneda de 400 pesos por día ( cálculo de inversión para filtro + repuesto adicional de uso 1 año a un costo por compra de 130,000 pesos)&nbsp;</li></ul><p><strong>Instalación Sencilla</strong>:</p><ul><li>Se adapta a todo tipo de duchas (fijas, de lluvia, de mano) sin necesidad de herramientas.</li><li>Fácil intercambio de filtros.</li></ul><p><strong>Beneficios Adicionales</strong>:</p><ul><li>Protección contra metales pesados.</li><li>Mejora la calidad del aire al reducir vapores químicos.</li><li><strong>Hidratación</strong>: Mantiene el manto hidrolipídico de la piel.</li><li><strong>Cuidado del Cabello</strong>: Previene decoloración y mejora la elasticidad.</li><li><strong>Bienestar Familiar</strong>: Ideal para niños y personas con piel sensible.</li></ul><h4>Diferenciadores</h4><ul><li><strong>Tecnología de Filtración Avanzada</strong>: Medios redox, sulfito de calcio, carbón activado de coco, vitamina C y minerales.</li><li><strong>Ecológico</strong>: Libre de sulfito cálcico (E226), basado en carbón activado y fibra de algodón.</li><li><strong>Certificaciones</strong>: Ecológicos y certificados por universidades.</li></ul><h4>Información Adicional</h4><ul><li><strong>Estudios de Salud</strong>: Investigaciones indican que el agua de ducha puede albergar bacterias patógenas (Mycobacterium).</li><li><strong>Mejora del Aire</strong>: Filtrar el agua reduce la inhalación de productos químicos en el vapor.</li></ul><p>Un filtro de ducha es esencial para mejorar la calidad del agua, proteger la piel y el cabello, y asegurar un ambiente más saludable en el hogar.</p><h3>Ángulos de venta sugeridos:</h3><p><strong>¿Sabías que el cuidado de tu cabello depende más de la calidad del agua que del shampoo?</strong> El agua de ducha y sus químicos producen resequedad y maltrato en el cabello, contribuyendo a problemas como la caspa.</p><p><strong>¿Por qué debemos filtrar el agua de ducha?</strong> Las cañerías pueden contener óxidos y metales que son perjudiciales al contacto diario con nuestra piel.</p><p><strong>¿Sabías que el agua de ducha contiene altas concentraciones de químicos?</strong> Cloro, pesticidas y otros contaminantes pueden afectar tu salud y bienestar general.</p><p><strong>¿Sabías que el vapor de la ducha puede ser perjudicial?</strong> Inhalar vapor con químicos puede irritar tus pulmones y agravar problemas respiratorios.</p><p><strong>¿Te preocupa la piel sensible?</strong> Filtrar el agua puede ayudar a reducir síntomas como picazón, irritaciones y reacciones alérgicas.</p><p><strong>¿Sabías que el cloro puede despojar a tu piel de sus aceites naturales?</strong> Un filtro de ducha ayuda a mantener la hidratación y salud de tu piel.</p><p><strong>¿Quieres un cabello más saludable?</strong> Filtrar el agua evita la decoloración y mejora la textura y brillo del cabello.</p><p><strong>¿Cómo afecta el agua dura a tu salud?</strong> La acumulación de minerales en el agua puede causar sequedad y problemas en la piel y el cabello.</p><p><strong>¿Sabías que los niños son más vulnerables a los contaminantes en el agua?</strong> Filtrar el agua de la ducha proporciona un entorno más seguro y saludable para toda la familia.</p><p><strong>¿Estás expuesto a bacterias peligrosas en tu ducha?</strong> Los filtros pueden ayudar a reducir la presencia de bacterias que pueden causar infecciones en la piel, pulmonares y otros problemas de salud.</p><p><strong>¿Sabías que el agua con la que te duchas todos los días proviene de una tubería que luce así?</strong></p>",
@@ -1446,128 +1632,150 @@
         "id": 1149928,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.02 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149929,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.56 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1149930,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.09.04 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149931,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.09.15 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149932,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.41 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149933,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.41 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149934,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.10 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149935,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.08.49 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149936,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129752Captura de Pantalla 2024-09-23 a la(s) 4.07.26 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149937,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129753Captura de Pantalla 2024-09-23 a la(s) 4.08.32 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1149938,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727129753Captura de Pantalla 2024-09-23 a la(s) 4.07.47 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150764,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144845IMG_7222.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150765,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144848IMG_7220.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150766,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144849IMG_7223.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150767,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727144849IMG_7221.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150862,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153616TUBERIA AGUA.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150863,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153617Captura de Pantalla 2024-09-23 a la(s) 11.51.50 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150864,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153752Captura de Pantalla 2024-09-23 a la(s) 11.51.04 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150865,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153753Captura de Pantalla 2024-09-23 a la(s) 11.54.32 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1150866,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1236155/1727153754Captura de Pantalla 2024-09-23 a la(s) 11.54.45 p. m..png",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1634697": {
     "name": "Dispensador de jabón con sensor ",
     "price": "$45.000",
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "stock": 100,
     "sku": "DSJ-1",
     "variations": [],
@@ -1578,14 +1786,17 @@
         "id": 1400788,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1634697/1737410802dispensador de jabon con sensor 03.PNG",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1607438": {
     "name": "Caneca inteligente con sensor",
     "price": "$80.000",
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "stock": 110,
     "sku": "Caneca inteligente con sensor 15 LT (2)",
     "variations": [],
@@ -1596,32 +1807,38 @@
         "id": 1365258,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228519caneca 2.JPG",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1365257,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228519caneca 3.JPG",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1365256,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228519caneca 1.JPG",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1365250,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1607438/1735228395caneca.webp",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "669206": {
     "name": "Raqueta Mata Insectos",
     "price": "$50.000",
-    "categories": ["house_tools"],
+    "categories": [
+      "house_tools"
+    ],
     "stock": 98,
     "sku": "DF6",
     "variations": [],
@@ -1632,26 +1849,31 @@
         "id": 653007,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669206/1708639638ae624d24-4876-4337-a212-e4eb254c75c9.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 653008,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669206/17086396384cdfa57e-9e60-4803-841c-0d5c3a222f47.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 653009,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/669206/17086396384fce5dbc-f394-4bd2-b1bd-738ed75fd187.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "1166111": {
     "name": "Destornilladores de precisión",
     "price": "$60.000",
-    "categories": ["house_tools"],
+    "categories": [
+      "house_tools"
+    ],
     "stock": 100,
     "sku": "ff44",
     "variations": [],
@@ -1662,26 +1884,31 @@
         "id": 1106431,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1166111/17255665932e0ac5b5-c923-415b-be67-c9bbb037db4d.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1106432,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1166111/172556659368f582ce-5bce-4dea-a4ff-8ae0fad224ae.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1106433,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1166111/172556659359c5930e-98bb-4fd1-88b1-658eb95726e2.jpeg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1421771": {
     "name": "Candado inteligente",
     "price": "$80.000",
-    "categories": ["house_tools"],
+    "categories": [
+      "house_tools"
+    ],
     "stock": 192,
     "sku": "JVR8XIM42O",
     "variations": [],
@@ -1692,50 +1919,59 @@
         "id": 1257297,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242xuXOScfb1efc0153448af953f486f2d0d5ac6O.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1257296,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (5).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1257295,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1257294,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (2).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1257293,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (4).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 1257292,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (1).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 1257291,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1421771/1730470242Understanding Human Body Structure (3).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       }
     ]
   },
   "1484215": {
     "name": "Carro acrobático anfibio",
     "price": "$130.000",
-    "categories": ["gifts"],
+    "categories": [
+      "gifts"
+    ],
     "stock": 250,
     "sku": "666-802A",
     "variations": [],
@@ -1746,14 +1982,17 @@
         "id": 1288989,
         "url": "",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1484215/1731688633IMG-20231216-WA0376 (1).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   },
   "260940": {
     "name": "Estuche protector para Nintendo Switch",
     "price": "$46.000",
-    "categories": ["gifts"],
+    "categories": [
+      "gifts"
+    ],
     "stock": null,
     "sku": null,
     "variations": [
@@ -1828,37 +2067,22 @@
         "id": 284334,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/260940/Diseño sin título (83).jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/260940/17018990581701899058Diseño sin título (83).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 284333,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/260940/Diseño sin título (82).jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/260940/17018990581701899058Diseño sin título (82).jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": false
       },
       {
         "id": 284332,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/260940/Diseño sin título (81).jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/260940/17018990581701899058Diseño sin título (81).jpg",
-        "variation_id": null
-      }
-    ]
-  },
-  "845468": {
-    "name": "Religioso",
-    "price": "$126.000",
-    "categories": ["gifts"],
-    "stock": 1000,
-    "sku": "RELIGIOSO W 027",
-    "variations": [],
-    "description": "¡CUADRO 5 PIEZAS!\n\n✅ Pago contra entrega. No se te cobra hasta que el cuadro esté en la puerta de tu casa.\n\n✅ Impresión digital de alta calidad.\n\n✅ Se limpia fácil.\n\n✅ Empacado en caja diseñada especialmente para garantizar el buen estado del producto.\n\nHermoso cuadro con un diseño exclusivo para decorar tu hogar y darle el toque especial que estás buscando.\n\nMATERIALES\n\n📏 Medidas: 114 X 78 cm.\n\n✅ 5 Retablos de madera MDF de 9mm de espesor.\n\n➡️ 1 de 78X24cm\n\n➡️ 2 de 60X24cm\n\n➡️ 2 de 45X18 cm\n\n✅ Impresión de alta definición en vinilo adhesivo.\n\n✅ Caimán para cada retablo que facilita su instalación.\n\nLa garantía tiene lugar en los primeros 10 días calendario después de que tu producto ha llegado a su respectivo comprador, una vez pasado los 11 días calendario la garantía es pérdida en su totalidad.\nSi tu producto llegó en mal estado como por ejemplo: Roto, dañado, mojado, rasgado, cortado,torcido, en una medida diferente a la gestionada, una referencia diferente a la comprada, puedes solicitar una garantía, en este caso aplicaría reemplazar el producto afectado por uno nuevo.",
-    "active": true,
-    "gallery": [
-      {
-        "id": 819070,
-        "url": "",
-        "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/845468/RELIGIOSO-W-027-jpg.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       }
     ]
   }
