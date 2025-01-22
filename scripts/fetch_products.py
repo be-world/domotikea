@@ -118,7 +118,8 @@ async def main():
                             "id": img.get("id", ""),
                             "url": f"{APP_CLOUDFRONT}/{img.get('url', '')}" if img.get("url") else "",
                             "urlS3": f"{APP_CLOUDFRONT}/{img.get('urlS3', '')}" if img.get("urlS3") else "",
-                            "variation_id": img.get("variation_id", "")
+                            "variation_id": img.get("variation_id", ""),
+                            "main": img.get("main", False)
                         } for img in fetched_data.get("gallery", [])
                     ]
                 }

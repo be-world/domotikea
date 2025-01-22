@@ -2,9 +2,7 @@
   "451256": {
     "name": "Cámara bombilla ",
     "price": "$60.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": 262,
     "sku": "0",
     "variations": [],
@@ -40,9 +38,7 @@
   "151020": {
     "name": "Cámara de seguridad 3 antenas",
     "price": "$75.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": 125,
     "sku": "CAMARA_SEGURIDAD_WIFI_ROBOTICA_3_ANTENAS_Q5X",
     "variations": [],
@@ -59,7 +55,8 @@
         "id": 192126,
         "url": "https://d39ru7awumhhs2.cloudfront.net/uploads/images/products/151020/sin-titulo-1650563157-colombia-de-compras-941324669.jpg",
         "urlS3": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/151020/17023090761702309076sin-titulo-1650563157-colombia-de-compras-941324669.jpg",
-        "variation_id": null
+        "variation_id": null,
+        "main": true
       },
       {
         "id": 192125,
@@ -96,9 +93,7 @@
   "979916": {
     "name": "Robot aspiradora",
     "price": "$80.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": null,
     "sku": "BT36",
     "variations": [
@@ -179,9 +174,7 @@
   "1165994": {
     "name": "Cámara de exterior",
     "price": "$100.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": 180,
     "sku": "Distri - 304",
     "variations": [],
@@ -211,9 +204,7 @@
   "1590849": {
     "name": "Toma corriente inteligente",
     "price": "$63.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": 50,
     "sku": "USB",
     "variations": [],
@@ -255,9 +246,7 @@
   "1055265": {
     "name": "Robot de limpieza mopeadora",
     "price": "$90.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": null,
     "sku": "A007",
     "variations": [
@@ -350,9 +339,7 @@
   "785281": {
     "name": "Timbre inteligente",
     "price": "$80.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": 493,
     "sku": "bdg",
     "variations": [],
@@ -388,9 +375,7 @@
   "1174056": {
     "name": "Alexa Eco Pop",
     "price": "$180.000",
-    "categories": [
-      "smart_home"
-    ],
+    "categories": ["smart_home"],
     "stock": 82,
     "sku": "Alexa",
     "variations": [],
@@ -426,9 +411,7 @@
   "625108": {
     "name": "Escurridor retráctil",
     "price": "$45.000",
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "stock": 210,
     "sku": "REM",
     "variations": [],
@@ -464,9 +447,7 @@
   "1057956": {
     "name": "Cuchillo tijera",
     "price": "$50.000",
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "stock": 1999,
     "sku": "132",
     "variations": [],
@@ -484,9 +465,7 @@
   "143976": {
     "name": "Nutribullet pro",
     "price": "$320.000",
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "stock": 119,
     "sku": "NBP",
     "variations": [],
@@ -516,9 +495,7 @@
   "458554": {
     "name": "Gallina hervidora de huevos",
     "price": "$40.000",
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "stock": null,
     "sku": null,
     "variations": [
@@ -605,9 +582,7 @@
   "259477": {
     "name": "Dispensador automático de agua de botellón",
     "price": "$39.000",
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "stock": null,
     "sku": null,
     "variations": [
@@ -694,9 +669,7 @@
   "1447397": {
     "name": "Dispensador de agua eléctrico para mesa",
     "price": "$45.000",
-    "categories": [
-      "kitchen"
-    ],
+    "categories": ["kitchen"],
     "stock": null,
     "sku": "1607",
     "variations": [
@@ -777,10 +750,7 @@
   "1116483": {
     "name": "Dispensador de jabón de loza",
     "price": "$35.000",
-    "categories": [
-      "kitchen",
-      "cleaning"
-    ],
+    "categories": ["kitchen", "cleaning"],
     "stock": null,
     "sku": "1861",
     "variations": [
@@ -849,9 +819,7 @@
   "1624938": {
     "name": "Bombillo con ventilador",
     "price": "$98.000",
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "stock": 298,
     "sku": "Ventilador Techo Lámpara Led Aromaterapia + Control Remoto",
     "variations": [],
@@ -893,9 +861,7 @@
   "656971": {
     "name": "Lámpara hexagonal",
     "price": "$40.000",
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "stock": 398,
     "sku": "0",
     "variations": [],
@@ -919,9 +885,7 @@
   "1573709": {
     "name": "Lámpara portatil",
     "price": "$60.000",
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "stock": 206,
     "sku": "LMAP P80",
     "variations": [],
@@ -981,9 +945,7 @@
   "970488": {
     "name": "Lampara cubo aurora boreal",
     "price": "$70.000",
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "stock": null,
     "sku": "0545",
     "variations": [
@@ -1058,9 +1020,7 @@
   "751123": {
     "name": "Bombillo inteligente bluetooh",
     "price": "$45.000",
-    "categories": [
-      "illumination"
-    ],
+    "categories": ["illumination"],
     "stock": 281,
     "sku": "BOB-001",
     "variations": [],
@@ -1090,9 +1050,7 @@
   "752292": {
     "name": "Humidificador de lluvia",
     "price": "$99.000",
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "stock": 115,
     "sku": "MA24068",
     "variations": [],
@@ -1122,9 +1080,7 @@
   "1048159": {
     "name": "Ventilador enfriador humidificador",
     "price": "$70.000",
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "stock": 132,
     "sku": "150",
     "variations": [],
@@ -1160,9 +1116,7 @@
   "50039": {
     "name": "Humidificador redondo madera",
     "price": "$45.000",
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "stock": null,
     "sku": null,
     "variations": [
@@ -1243,9 +1197,7 @@
   "85099": {
     "name": "Parlante para ducha",
     "price": "$30.000",
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "stock": 995,
     "sku": "MS0202",
     "variations": [],
@@ -1287,9 +1239,7 @@
   "353320": {
     "name": "Calentador de chimenea",
     "price": "$65.000",
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "stock": 100,
     "sku": "Calentador-10",
     "variations": [],
@@ -1319,9 +1269,7 @@
   "816473": {
     "name": "Humidificador antigravedad con reloj",
     "price": "$90.000",
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "stock": 123,
     "sku": "ha",
     "variations": [],
@@ -1339,9 +1287,7 @@
   "1370198": {
     "name": "Proyector de astronauta",
     "price": "$65.000",
-    "categories": [
-      "wellness"
-    ],
+    "categories": ["wellness"],
     "stock": 411,
     "sku": "Zoky zo",
     "variations": [],
@@ -1383,9 +1329,7 @@
   "860745": {
     "name": "Quitamotas recargable",
     "price": "$46.000",
-    "categories": [
-      "cleaning"
-    ],
+    "categories": ["cleaning"],
     "stock": null,
     "sku": null,
     "variations": [
@@ -1491,9 +1435,7 @@
   "1236155": {
     "name": "Filtro de ducha",
     "price": "$66.000",
-    "categories": [
-      "cleaning"
-    ],
+    "categories": ["cleaning"],
     "stock": 819,
     "sku": "FILTRODUCHA",
     "variations": [],
@@ -1625,9 +1567,7 @@
   "1634697": {
     "name": "Dispensador de jabón con sensor ",
     "price": "$45.000",
-    "categories": [
-      "cleaning"
-    ],
+    "categories": ["cleaning"],
     "stock": 100,
     "sku": "DSJ-1",
     "variations": [],
@@ -1645,9 +1585,7 @@
   "1607438": {
     "name": "Caneca inteligente con sensor",
     "price": "$80.000",
-    "categories": [
-      "cleaning"
-    ],
+    "categories": ["cleaning"],
     "stock": 110,
     "sku": "Caneca inteligente con sensor 15 LT (2)",
     "variations": [],
@@ -1683,9 +1621,7 @@
   "669206": {
     "name": "Raqueta Mata Insectos",
     "price": "$50.000",
-    "categories": [
-      "house_tools"
-    ],
+    "categories": ["house_tools"],
     "stock": 98,
     "sku": "DF6",
     "variations": [],
@@ -1715,9 +1651,7 @@
   "1166111": {
     "name": "Destornilladores de precisión",
     "price": "$60.000",
-    "categories": [
-      "house_tools"
-    ],
+    "categories": ["house_tools"],
     "stock": 100,
     "sku": "ff44",
     "variations": [],
@@ -1747,9 +1681,7 @@
   "1421771": {
     "name": "Candado inteligente",
     "price": "$80.000",
-    "categories": [
-      "house_tools"
-    ],
+    "categories": ["house_tools"],
     "stock": 192,
     "sku": "JVR8XIM42O",
     "variations": [],
@@ -1803,9 +1735,7 @@
   "1484215": {
     "name": "Carro acrobático anfibio",
     "price": "$130.000",
-    "categories": [
-      "gifts"
-    ],
+    "categories": ["gifts"],
     "stock": 250,
     "sku": "666-802A",
     "variations": [],
@@ -1823,9 +1753,7 @@
   "260940": {
     "name": "Estuche protector para Nintendo Switch",
     "price": "$46.000",
-    "categories": [
-      "gifts"
-    ],
+    "categories": ["gifts"],
     "stock": null,
     "sku": null,
     "variations": [
@@ -1919,9 +1847,7 @@
   "845468": {
     "name": "Religioso",
     "price": "$126.000",
-    "categories": [
-      "gifts"
-    ],
+    "categories": ["gifts"],
     "stock": 1000,
     "sku": "RELIGIOSO W 027",
     "variations": [],

@@ -53,7 +53,7 @@
       </div>
     </div>
 
-    <section class="category" id="smart_home"></section>
+    <section class="category" id="category-section"></section>
 
     <a
       href="https://api.whatsapp.com/message/IRWQQKFSJJP2C1?autoload=1&app_absent=0"
@@ -86,29 +86,21 @@
 
     <script type="module">
       import { updateCategorySection } from "./assets/js/utils/updateCategorySection.js";
+      import { getQueryParam } from "./assets/js/utils/getQueryParam.js";
       import { CATEGORIES_DATA } from "./assets/js/constants/categoriesConstants.js";
 
-      const categoriesConfig = [
-        {
-          sectionId: "smart_home",
-          ...CATEGORIES_DATA.smart_home,
-        },
-      ];
+      document.addEventListener("DOMContentLoaded", () => {
+        const category = getQueryParam("category");
 
-      document.addEventListener("DOMContentLoaded", async () => {
-        for (const config of categoriesConfig) {
-          await updateCategorySection(config);
+        if (!category) {
+          document.getElementById("category-section").innerHTML =
+            "<h2>Error: No category found.</h2>";
+          return;
         }
 
-        document.querySelectorAll(".section-heading h2").forEach((heading) => {
-          heading.addEventListener("click", (event) => {
-            event.preventDefault();
-
-            if ("id" in heading) {
-              const sectionId = heading.id;
-              window.location.href = `category-product.html?category=${sectionId}`;
-            }
-          });
+        updateCategorySection({
+          sectionId: "category-section",
+          ...CATEGORIES_DATA[category],
         });
       });
     </script>
